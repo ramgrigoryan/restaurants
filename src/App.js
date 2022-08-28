@@ -6,11 +6,9 @@ import {
 	CardActionArea,
 	CardActions,
 	CardContent,
-	CardMedia,
 	Grid,
 	List,
 	ListItem,
-	ListItemButton,
 	Typography,
 } from "@mui/material";
 import { ThemeProvider, createTheme } from "@mui/material";

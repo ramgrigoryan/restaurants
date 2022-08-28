@@ -10,7 +10,7 @@ export default function MyMap() {
 				<Map
 					width={1000}
 					height={980}
-					defaultState={{
+					state={{
 						center,
 						zoom: 16,
 					}}
