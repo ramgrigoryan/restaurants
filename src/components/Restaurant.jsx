@@ -18,7 +18,6 @@ import {
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import ExpandMoreOutlinedIcon from "@mui/icons-material/ExpandMoreOutlined";
-import { display } from "@mui/system";
 export default function Restaurant() {
 	const [restaurant, setRestaurant] = useState(null);
 	const [userRate, setUserRate] = useState(0);
@@ -143,42 +142,43 @@ export default function Restaurant() {
 				</Grid>
 			</Grid>
 			<Box>
-				{displayedReviews.map((review) => {
-					return (
-						<Card
-							sx={{
-								maxWidth: "450px",
-								display: "flex",
-								justifyContent: "space-between",
-								mb: 3,
-								p: 1,
-							}}
-							key={review.id}
-						>
-							<CardActionArea sx={{ p: 2 }}>
-								<Typography
-									align="center"
-									variant="body2"
-									color="textSecondary"
-								>
-									UserId: {review.id}
-								</Typography>
-								<Divider />
-								<Typography variant="h3" color="success">
-									{review.review}
-								</Typography>
-							</CardActionArea>
-							<CardContent>
-								<Rating
-									name="half-rating-read"
-									defaultValue={+review.rating}
-									precision={0.1}
-									readOnly
-								/>
-							</CardContent>
-						</Card>
-					);
-				})}
+				{displayedReviews &&
+					displayedReviews.map((review) => {
+						return (
+							<Card
+								sx={{
+									maxWidth: "450px",
+									display: "flex",
+									justifyContent: "space-between",
+									mb: 3,
+									p: 1,
+								}}
+								key={review.id}
+							>
+								<CardActionArea sx={{ p: 2 }}>
+									<Typography
+										align="center"
+										variant="body2"
+										color="textSecondary"
+									>
+										UserId: {review.id}
+									</Typography>
+									<Divider />
+									<Typography variant="h3" color="success">
+										{review.review}
+									</Typography>
+								</CardActionArea>
+								<CardContent>
+									<Rating
+										name="half-rating-read"
+										defaultValue={+review.rating}
+										precision={0.1}
+										readOnly
+									/>
+								</CardContent>
+							</Card>
+						);
+					})}
 			</Box>
 		</Box>
 	);
