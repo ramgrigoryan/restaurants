@@ -17,6 +17,7 @@ export default function MyMap({ markers, center, onCenterChange }) {
 					state={{
 						center,
 						zoom: 16,
+						controls: ["zoomControl", "fullscreenControl"],
 					}}
 				>
 					{markers.map((restaurant) => {
