@@ -29,7 +29,7 @@ function App() {
 				>
 					<Grid item xs={12} sm={12} md={6} lg={6} xl={6}>
 						<Typography variant="h3" align="center" sx={{ pt: 2 }}>
-							The most famous Restaurants in Yerevan
+							The most famous restaurants in Yerevan
 						</Typography>
 						<List>
 							{restaurantsCollection.map((restaurant) => (

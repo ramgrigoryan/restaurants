@@ -1,0 +1,2675 @@
+[
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595213c"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Tavern+Yerevan/data=!4m7!3m6!1s0x406abcfbfdb232a1:0xb29458741f4f549f!8m2!3d40.179007!4d44.51008!16s%2Fg%2F1vb9bk33!19sChIJoTKy_fu8akARn1RPH3RYlLI",
+		"title": "Tavern Yerevan",
+		"rating": "4.7",
+		"reviewCount": 1797,
+		"category": "Armenian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "5 Amiryan St, Yerevan 0010, Armenia",
+		"website": "https://www.yeremyanprojects.com/en/restaurants/tavern-yerevan",
+		"phoneNumber": "+374 10 545545",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP80RS5UwHc0CyURFFsZXxLlLczOxL_7NBVIxFQ=w408-h262-k-no",
+		"latitude": 40.1790625,
+		"longitude": 44.51006249999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595213d"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Sherep/data=!4m7!3m6!1s0x406abcf963d1253f:0x45731d07b927e010!8m2!3d40.1783449!4d44.5110099!16s%2Fg%2F11f_j3r50w!19sChIJPyXRY_m8akAREOAnuQcdc0U",
+		"title": "Sherep",
+		"rating": "4.7",
+		"reviewCount": 915,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "1 Amiryan St, Yerevan 0010, Armenia",
+		"website": "https://www.yeremyanprojects.com/en/restaurants/sherep",
+		"phoneNumber": "+374 43 600880",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPTI877-hqRsbR_SlSE8HPSdw185roTxH9cPFuv=w408-h271-k-no",
+		"latitude": 40.17831250000002,
+		"longitude": 44.511062499999994,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595213e"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Tavern+Yerevan+riverside/data=!4m7!3m6!1s0x406abdf5623d0293:0x8f6bd470bf69ddcd!8m2!3d40.1727675!4d44.4981403!16s%2Fg%2F11fhv40ttv!19sChIJkwI9YvW9akARzd1pv3DUa48",
+		"title": "Tavern Yerevan riverside",
+		"rating": "4.7",
+		"reviewCount": 178,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "48A Admiral Isakov Ave, Yerevan, Armenia",
+		"website": "https://www.yeremyanprojects.com/en/restaurants/tavern-yerevan-riverside",
+		"phoneNumber": "+374 99 508040",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNAfpu8eisdVjnrp2R4z3cY75J4TBA1cTO16ZYx=w408-h272-k-no",
+		"latitude": 40.172812500000006,
+		"longitude": 44.498187500000014,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595213f"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Khinkali/data=!4m7!3m6!1s0x406abce37b0b5a13:0x79d4f924ecd7358!8m2!3d40.1831752!4d44.5160108!16s%2Fg%2F1tc_2l2p!19sChIJE1oLe-O8akARWHPNTpJPnQc",
+		"title": "Khinkali",
+		"rating": "4.5",
+		"reviewCount": 359,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "21/1 Tumanyan St, Yerevan 0001, Armenia",
+		"website": "http://xinkali.am/hy/",
+		"phoneNumber": "+374 10 582352",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPwiUF26YDcrGJSW1Ov8KDDQGRvPSfMOTthYytf=w408-h306-k-no",
+		"latitude": 40.18318750000002,
+		"longitude": 44.51606249999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952140"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Black+Angus/data=!4m7!3m6!1s0x406abcfb3df853b1:0x3855a3ca951f7944!8m2!3d40.1801304!4d44.5148706!16s%2Fg%2F12qf82dgf!19sChIJsVP4Pfu8akARRHkflcqjVTg",
+		"title": "Black Angus",
+		"rating": "4.6",
+		"reviewCount": 424,
+		"category": "Restaurant",
+		"attributes": "Chain offers beef, seafood & surf 'n' turf combos plus traditional sides amid Western-themed decor.    ·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "2/5 Abovyan St, Yerevan 0010, Armenia",
+		"website": "https://www.blackangus.am/",
+		"phoneNumber": "+374 60 508070",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM0NAJJ_wxBBgNmwLPU3_tp_CDqCUe1C2GbayhB=w408-h306-k-no",
+		"latitude": 40.1801875,
+		"longitude": 44.51481249999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952141"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Mayrig+Yerevan/data=!4m7!3m6!1s0x406abdf98b25b891:0x5d21fbb5784beeb0!8m2!3d40.1802698!4d44.5110545!16s%2Fg%2F11g4c2h4mp!19sChIJkbgli_m9akARsO5LeLX7IV0",
+		"title": "Mayrig Yerevan",
+		"rating": "4.3",
+		"reviewCount": 170,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "4, 6 Amiryan St, Yerevan 0001, Armenia",
+		"website": "mayrig.am",
+		"phoneNumber": "+374 41 760760",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMOmWiI-TiBTWevI3ghipHKFbxuys9o0kJThGr0=w408-h272-k-no",
+		"latitude": 40.1803125,
+		"longitude": 44.511062499999994,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952142"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Livingston+Restaurant/data=!4m7!3m6!1s0x406aa31982fdd257:0x167b9aadb8d0be21!8m2!3d40.1878471!4d44.4845217!16s%2Fg%2F11j1zz7l5z!19sChIJV9L9ghmjakARIb7QuK2aexY",
+		"title": "Livingston Restaurant",
+		"rating": "4.6",
+		"reviewCount": 11,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "Tsitsernakaberd park, building 1, Yerevan 0028, Armenia",
+		"website": "https://www.yeremyanprojects.com/en/restaurants/livingston",
+		"phoneNumber": "+374 99 392020",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOYRZRNl-yWBsYltowT4Xi_DYlNBeXzwvaRwuff=w408-h271-k-no",
+		"latitude": 40.18781249999999,
+		"longitude": 44.484562499999996,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952143"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Florence+Restaurant/data=!4m7!3m6!1s0x406abd73b0648ca1:0x9a95769bab65b2e!8m2!3d40.1944274!4d44.4817236!16s%2Fg%2F11xqpy1r5!19sChIJoYxksHO9akARLlu2umlXqQk",
+		"title": "Florence Restaurant",
+		"rating": "4.6",
+		"reviewCount": 180,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "64, 2 Barbusse St, Yerevan 0028, Armenia",
+		"website": "https://florence-restaurant.business.site/?utm_source=gmb&utm_medium=referral",
+		"phoneNumber": "+374 44 004555",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMCWMObglrixz0L-ilNWNJr_NQq6hB9LH89VJf9=w408-h271-k-no",
+		"latitude": 40.19443750000001,
+		"longitude": 44.48168749999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952144"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Tapastan/data=!4m7!3m6!1s0x406abd1cfc0ca6bf:0x9c8bb351d31c7535!8m2!3d40.1869097!4d44.508743!16s%2Fg%2F11cn0wzvcn!19sChIJv6YM_By9akARNXUc01Gzi5w",
+		"title": "Tapastan",
+		"rating": "4.6",
+		"reviewCount": 154,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "6 Martiros Saryan St, Yerevan 0002, Armenia",
+		"website": "https://www.facebook.com/Tapastan/",
+		"phoneNumber": "+374 10 521932",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMiXjM6R5qz0F8JNHBz-52GEJD97wU92_r0YQo=w408-h544-k-no",
+		"latitude": 40.18693750000001,
+		"longitude": 44.50868749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952145"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Tavern+Yerevan+(Teryan)/data=!4m7!3m6!1s0x406abcdfdf97b7c5:0x9a4db6fc885df263!8m2!3d40.1888819!4d44.5213219!16s%2Fg%2F11ckvdyptq!19sChIJxbeX39-8akARY_JdiPy2TZo",
+		"title": "Tavern Yerevan (Teryan)",
+		"rating": "4.8",
+		"reviewCount": 980,
+		"category": "Armenian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  No-contact delivery",
+		"address": "91 Teryan St, Yerevan 0009, Armenia",
+		"website": "https://www.yeremyanprojects.com/en/restaurants/tavern-yerevan",
+		"phoneNumber": "+374 96 508800",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOKWN9FPpQJY1qsAyZsFHSA9IQDokdmJi4FugPC=w408-h271-k-no",
+		"latitude": 40.188937499999994,
+		"longitude": 44.52131250000001,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952146"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Dolmama+-+Armenia's+Restaurant/data=!4m7!3m6!1s0x406abcfb3aeaaaa9:0xed44390f1c1d72ec!8m2!3d40.1806302!4d44.515791!16s%2Fg%2F1vqmgvw3!19sChIJqarqOvu8akAR7HIdHA85RO0",
+		"title": "Dolmama - Armenia's Restaurant",
+		"rating": "4.3",
+		"reviewCount": 528,
+		"category": "Armenian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "10 Pushkin St, Yerevan 0010, Armenia",
+		"website": "",
+		"phoneNumber": "+374 10 561354",
+		"currentStatus": "Open now",
+		"info": "LGBTQ+ friendly",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPzVc0fZ1RpkzguEsBjFddLK_O93WIbJxsaTaQW=w408-h544-k-no",
+		"latitude": 40.18068750000002,
+		"longitude": 44.515812499999996,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952147"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Seasons+Restaurant/data=!4m7!3m6!1s0x406abd4538b30399:0xa34934c3e4cdef14!8m2!3d40.1823747!4d44.5090287!16s%2Fg%2F11h2c3k5vn!19sChIJmQOzOEW9akARFO_N5MM0SaM",
+		"title": "Seasons Restaurant",
+		"rating": "4.1",
+		"reviewCount": 116,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "15, 5 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+		"website": "https://www.yeremyanprojects.com/en/restaurants/seasons",
+		"phoneNumber": "+374 43 709070",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMh-jjjqVDEjGaLVyGBJDAxlGu6rCnB6LzGnZ6o=w426-h240-k-no",
+		"latitude": 40.18231250000001,
+		"longitude": 44.509062499999985,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952148"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Lavash+Restaurant/data=!4m7!3m6!1s0x406abce36330584b:0xf87bea155165fdac!8m2!3d40.1830394!4d44.516282!16s%2Fg%2F11c718sv13!19sChIJS1gwY-O8akARrP1lURXqe_g",
+		"title": "Lavash Restaurant",
+		"rating": "4.7",
+		"reviewCount": 1913,
+		"category": "Armenian restaurant",
+		"attributes": "Farm-to-table meals served in a popular, country-style destination that has a terrace.    ·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "21 Tumanyan St, Yerevan 0001, Armenia",
+		"website": "https://www.yeremyanprojects.com/en/restaurants/lavash",
+		"phoneNumber": "+374 10 608800",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN5KRiUKXTTe82SIW4SDNVUY-B4lemGUie429Y_=w408-h272-k-no",
+		"latitude": 40.18306249999999,
+		"longitude": 44.516312499999984,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952149"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Anoush+Restaurant/data=!4m7!3m6!1s0x406abcfc1737b7c3:0xee17f2674a74a82!8m2!3d40.179315!4d44.509172!16s%2Fg%2F11cn947ff1!19sChIJw7c3F_y8akARgkqndCZ_4Q4",
+		"title": "Anoush Restaurant",
+		"rating": "4.4",
+		"reviewCount": 87,
+		"category": "Armenian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "7/1 Amiryan St, Yerevan 0010, Armenia",
+		"website": "https://anoush-restaurant.business.site/",
+		"phoneNumber": "+374 11 757505",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM0FM9A9fv0nACQLCruVNEhNX95CSAK3WkywRPX=w408-h272-k-no",
+		"latitude": 40.179312499999995,
+		"longitude": 44.50918749999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595214a"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Mer+Taghe/data=!4m7!3m6!1s0x406abce37aed86f5:0x4758a5834d9a2ebc!8m2!3d40.1831091!4d44.5161419!16s%2Fg%2F1tdh6yjl!19sChIJ9YbteuO8akARvC6aTYOlWEc",
+		"title": "Mer Taghe",
+		"rating": "4.6",
+		"reviewCount": 232,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "21/1 Tumanyan St, Yerevan 0001, Armenia",
+		"website": "https://www.facebook.com/mertaghe/",
+		"phoneNumber": "+374 10 580106",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMwZG34PObv3xQM-tWrmzoOTOZ5V7oEuWcMdJQE=w408-h306-k-no",
+		"latitude": 40.18306249999999,
+		"longitude": 44.51618749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595214b"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Indian+Mehak+Restaurant+%26+Bar/data=!4m7!3m6!1s0x406abd329c0166f1:0xd1926b6e53dedc34!8m2!3d40.1891621!4d44.5230403!16s%2Fg%2F11cn9gq5np!19sChIJ8WYBnDK9akARNNzeU25rktE",
+		"title": "Indian Mehak Restaurant & Bar",
+		"rating": "4.9",
+		"reviewCount": 1252,
+		"category": "Indian restaurant",
+		"attributes": "Unpretentious venue serving chicken, mutton & veggie curries, plus tandoori meats, biryani & sweets.    ·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "10 Koryun St, Yerevan 0009, Armenia",
+		"website": "https://www.indianmehak.com/",
+		"phoneNumber": "+374 41 800786",
+		"currentStatus": "Open now",
+		"info": "LGBTQ+ friendly",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOEiYY51dz7cso0SoQfML4d0B0RrK60_N-WWcGH=w408-h272-k-no",
+		"latitude": 40.18918749999999,
+		"longitude": 44.523062499999995,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595214c"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Limone/data=!4m7!3m6!1s0x406abd1faa1bd305:0xe5935b67be62b405!8m2!3d40.1896395!4d44.514952!16s%2Fg%2F11ggrmm4ck!19sChIJBdMbqh-9akARBbRivmdbk-U",
+		"title": "Limone",
+		"rating": "4.5",
+		"reviewCount": 214,
+		"category": "Italian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "3, 81 Tamanyan St, Yerevan 0009, Armenia",
+		"website": "https://www.limone.am/",
+		"phoneNumber": "+374 11 656565",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOf-NyEuBYbwEQ82rDzF1nBHuXzQKZXkpUMLgCP=w408-h306-k-no",
+		"latitude": 40.189687500000005,
+		"longitude": 44.51493749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595214d"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Tospia/data=!4m7!3m6!1s0x406abce37e48b235:0x38f2390d6d2c9120!8m2!3d40.1829071!4d44.5169792!16s%2Fg%2F11c0qgr2zj!19sChIJNbJIfuO8akARIJEsbQ058jg",
+		"title": "Tospia",
+		"rating": "4.4",
+		"reviewCount": 188,
+		"category": "Armenian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "30 Tumanyan St, Yerevan 0001, Armenia",
+		"website": "https://www.facebook.com/tospia1",
+		"phoneNumber": "+374 10 600007",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMDXWLmI7me9JxIErg-ohoXrwpCAoNEDwKYPw51=w408-h544-k-no",
+		"latitude": 40.182937499999994,
+		"longitude": 44.5169375,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595214e"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Vinograd+Wine+Restobar/data=!4m7!3m6!1s0x406abcf067d26ccd:0xa82af75df2b2211!8m2!3d40.1777475!4d44.5191517!16s%2Fg%2F11cn9jytyn!19sChIJzWzSZ_C8akARESIr33Wvggo",
+		"title": "Vinograd Wine Restobar",
+		"rating": "4.8",
+		"reviewCount": 103,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "0010, 62 Hanrapetutyan St, Yerevan 0010, Armenia",
+		"website": "https://www.facebook.com/people/Vinograd-Wine-Restobar/100063456612872/",
+		"phoneNumber": "+374 77 520357",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMUFPXLTqnPeG4wLFG59GuuTo6JEXy0RYP7CHNh=w408-h306-k-no",
+		"latitude": 40.177687500000005,
+		"longitude": 44.5191875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595214f"
+		},
+		"placeUrl": "https://www.google.com/maps/place/dors+craft+beer+%26+kitchen/data=!4m7!3m6!1s0x406abd99a640f065:0x131c51e5a6106ab9!8m2!3d40.1804914!4d44.5106594!16s%2Fg%2F11hzx499dr!19sChIJZfBAppm9akARuWoQpuVRHBM",
+		"title": "dors craft beer & kitchen",
+		"rating": "4.1",
+		"reviewCount": 77,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "4, 6 Amiryan St, Pavstos Buzand St, Yerevan 0010, Armenia",
+		"website": "",
+		"phoneNumber": "+374 44 120112",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipODFhJmoH3h2I28WmX1fE0-pq6gBP_mi5FNNdh7=w408-h266-k-no",
+		"latitude": 40.1804375,
+		"longitude": 44.5106875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952150"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Lahmajun+Gaidz/data=!4m7!3m6!1s0x406abcfaf77a69a5:0x53ecc27516e3cbc9!8m2!3d40.1798931!4d44.519618!16s%2Fg%2F1q67cvj0s!19sChIJpWl69_q8akARycvjFnXC7FM",
+		"title": "Lahmajun Gaidz",
+		"rating": "4.9",
+		"reviewCount": 151,
+		"category": "Mediterranean restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "9, 9 Tumanyan St, Yerevan, Armenia",
+		"website": "https://www.facebook.com/LahmajunGaidz",
+		"phoneNumber": "+374 77 332118",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNqmUN2mTRcQxfdrCfAyJCxvkJY-mdihkiFi1hU=w408-h544-k-no",
+		"latitude": 40.17993750000001,
+		"longitude": 44.51956250000002,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952151"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Gouroo+Club+%26+Garden/data=!4m7!3m6!1s0x406abd4ce49e752b:0x9609d6ae28a7bec!8m2!3d40.1863755!4d44.5084082!16s%2Fg%2F11f5vd61cv!19sChIJK3We5Ey9akAR7HuK4mqdYAk",
+		"title": "Gouroo Club & Garden",
+		"rating": "4.3",
+		"reviewCount": 164,
+		"category": "Family restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  No-contact delivery",
+		"address": "13 Martiros Saryan St, Yerevan 0002, Armenia",
+		"website": "https://www.gourooclub.com/",
+		"phoneNumber": "+374 11 222040",
+		"currentStatus": "Open now",
+		"info": "Identifies as women-owned",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMY_JF9uajYCWYTN-5C6kUIMoV10PlExZfkRbwG=w408-h271-k-no",
+		"latitude": 40.1864375,
+		"longitude": 44.5084375,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952152"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Park+Bridge+restaurant+%26+music+hub/data=!4m7!3m6!1s0x406abd0ad6e71ee1:0x7eb6d0e23cb2cf68!8m2!3d40.1903717!4d44.4810055!16s%2Fg%2F1tfpsrw4!19sChIJ4R7n1gq9akARaM-yPOLQtn4",
+		"title": "Park Bridge restaurant & music hub",
+		"rating": "4.5",
+		"reviewCount": 173,
+		"category": "Restaurant",
+		"attributes": "·  Takeout  ·  Delivery",
+		"address": "1, 6 Leningradyan St, Yerevan 0028, Armenia",
+		"website": "",
+		"phoneNumber": "+374 10 380606",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN63bhhgHUzF2ZU1EiPCyCEaKOzol3lwetlX3rM=w408-h306-k-no",
+		"latitude": 40.19031249999999,
+		"longitude": 44.48106249999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952153"
+		},
+		"placeUrl": "https://www.google.com/maps/place/CEO3/data=!4m7!3m6!1s0x406abd1e5657451d:0x636ee8741dece14b!8m2!3d40.189268!4d44.5142765!16s%2Fg%2F11cp5s8p81!19sChIJHUVXVh69akARS-HsHXTobmM",
+		"title": "CEO3",
+		"rating": "4.6",
+		"reviewCount": 85,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "Baghramyan 2 (Cascade, Isahakyan St, Yerevan, Armenia",
+		"website": "https://www.facebook.com/ceo3bbq",
+		"phoneNumber": "+374 99 110330",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP_JZUWZ6vGmDB1gkr7-R4vm744v8qltMhhB7hY=w408-h326-k-no",
+		"latitude": 40.189312499999986,
+		"longitude": 44.514312499999974,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952154"
+		},
+		"placeUrl": "https://www.google.com/maps/place/The+Club/data=!4m7!3m6!1s0x406abd1d90ee7bbd:0x241596883ef4729b!8m2!3d40.186487!4d44.511995!16s%2Fg%2F1th0wvjr!19sChIJvXvukB29akARm3L0PoiWFSQ",
+		"title": "The Club",
+		"rating": "4.7",
+		"reviewCount": 221,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "40 Tumanyan St, Yerevan 0010, Armenia",
+		"website": "http://www.theclub.am/",
+		"phoneNumber": "+374 10 531361",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMX8KOpCArPbUgMw_mBnPJhKNgBK0w0LD7Pe6tb=w408-h274-k-no",
+		"latitude": 40.1864375,
+		"longitude": 44.5119375,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952155"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Charentsi+28+Restaurant/data=!4m7!3m6!1s0x406abceec276708d:0x2372d44a1a7bab7b!8m2!3d40.1793447!4d44.5273361!16s%2Fg%2F1tdj2pv7!19sChIJjXB2wu68akARe6t7GkrUciM",
+		"title": "Charentsi 28 Restaurant",
+		"rating": "4.5",
+		"reviewCount": 81,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "28 Charents St, Yerevan, Armenia",
+		"website": "",
+		"phoneNumber": "+374 10 572945",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN2_z2awLDEA6935KPqM8WFcP4ZNHSrHuXhDWM=w408-h272-k-no",
+		"latitude": 40.179312499999995,
+		"longitude": 44.52731250000001,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952156"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Cascade+Royal/data=!4m7!3m6!1s0x406abd221231aed9:0xaea00f08ced5a78b!8m2!3d40.1930712!4d44.5144423!16s%2Fg%2F11cn6864k7!19sChIJ2a4xEiK9akARi6fVzggPoK4",
+		"title": "Cascade Royal",
+		"rating": "4.2",
+		"reviewCount": 162,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "5GV7+5QV, 192, 0009, Antarain St, Yerevan, Armenia",
+		"website": "https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fcascaderoyal%2F%3Flocale2%3Dru_RU&refsrc=deprecated&locale2=ru_RU&_rdr",
+		"phoneNumber": "+374 11 440144",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN44EycirQukcnylWCmXvrhEb9yo_jAhfbH8_gw=w408-h272-k-no",
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952157"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Ankyun/data=!4m7!3m6!1s0x406abcfa84bb10c3:0xd8ee8c7ddf7d5955!8m2!3d40.1787284!4d44.5174512!16s%2Fg%2F1tfgh9gj!19sChIJwxC7hPq8akARVVl9332M7tg",
+		"title": "Ankyun",
+		"rating": "4.5",
+		"reviewCount": 85,
+		"category": "Italian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "4 Vardanants St, Yerevan 0010, Armenia",
+		"website": "http://www.ankyun.am/",
+		"phoneNumber": "+374 10 544606",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM5zVWsOoZF8egz5KH0sTCO9E96wVy6JaSo445V=w426-h240-k-no",
+		"latitude": 40.17868750000001,
+		"longitude": 44.517437499999986,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952158"
+		},
+		"placeUrl": "https://www.google.com/maps/place/EL+Garden/data=!4m7!3m6!1s0x406abda0b9750a45:0x779bfee8562a498!8m2!3d40.1868067!4d44.481416!16s%2Fg%2F11b7m96fnt!19sChIJRQp1uaC9akARmKRihe6_eQc",
+		"title": "EL Garden",
+		"rating": "4.3",
+		"reviewCount": 467,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "8 Tsitsernakaberd Hwy, Yerevan 0082, Armenia",
+		"website": "https://el-garden.business.site/?utm_source=gmb&utm_medium=referral",
+		"phoneNumber": "+374 41 490000",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOB2MqoY4cHlpj0ICYiRWmADC7z_JTZNpC8R7Ja=w408-h287-k-no",
+		"latitude": 40.18681249999999,
+		"longitude": 44.481437499999984,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952159"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Soul+Kitchen+Yerevan/data=!4m7!3m6!1s0x406abd18dc517fdf:0xae44b7d4381e34ad!8m2!3d40.1836234!4d44.5106289!16s%2Fg%2F11pz2dyh4n!19sChIJ339R3Bi9akARrTQeONS3RK4",
+		"title": "Soul Kitchen Yerevan",
+		"rating": "4.6",
+		"reviewCount": 24,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  No-contact delivery",
+		"address": "0002, 25 Mesrop Mashtots Ave, Yerevan, Armenia",
+		"website": "https://www.facebook.com/SoulKitchenEVN",
+		"phoneNumber": "+374 95 900944",
+		"currentStatus": "",
+		"info": "LGBTQ+ friendly",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP97c_GdtXMyjhTWeqreDkETRdWxCfhiK3Hvb58=w408-h770-k-no",
+		"latitude": 40.18356250000001,
+		"longitude": 44.5106875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595215a"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Byblos+Grill+Bakery+Restaurant/data=!4m7!3m6!1s0x406abde42c07ad6d:0x95e9124b5d2469f7!8m2!3d40.1835059!4d44.5089241!16s%2Fg%2F11fpn_lpsm!19sChIJba0HLOS9akAR92kkXUsS6ZU",
+		"title": "Byblos Grill Bakery Restaurant",
+		"rating": "4.3",
+		"reviewCount": 38,
+		"category": "Lebanese restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "64, 118 Aram Street, unit 0010, Armenia",
+		"website": "https://www.bonee.net/index-am.html",
+		"phoneNumber": "+374 95 525525",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMqKq_d0Ru9ZU2RkUe6m8n3_57VH0lOXhekoeGD=w408-h271-k-no",
+		"latitude": 40.18356250000001,
+		"longitude": 44.50893749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595215b"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Bar+B.Q./data=!4m7!3m6!1s0x406abd85d21a5ae5:0x2e68e9c718ac5036!8m2!3d40.182719!4d44.5127834!16s%2Fg%2F11r88017jk!19sChIJ5Voa0oW9akARNlCsGMfpaC4",
+		"title": "Bar B.Q.",
+		"rating": "4.5",
+		"reviewCount": 84,
+		"category": "Fast food restaurant",
+		"attributes": "·  Dine-in  ·  Curbside pickup  ·  Delivery",
+		"address": "40 Pushkin St, Yerevan, Armenia",
+		"website": "https://www.instagram.com/barbq.evn/",
+		"phoneNumber": "",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOJ-WOGfDF9jdBcwUJBo20py8WgmQkHylQmFKx6=w408-h272-k-no",
+		"latitude": 40.1826875,
+		"longitude": 44.51281249999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595215c"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Caucasus+Tavern/data=!4m7!3m6!1s0x406abcef95eff757:0xc2136f2d58aa92e6!8m2!3d40.1794619!4d44.522829!16s%2Fg%2F1thsddq_!19sChIJV_fvle-8akAR5pKqWC1vE8I",
+		"title": "Caucasus Tavern",
+		"rating": "4.3",
+		"reviewCount": 729,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "1st Floor, 82 Hanrapetutyan St, Yerevan 0010, Armenia",
+		"website": "https://www.caucasus.am/",
+		"phoneNumber": "+374 10 561177",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPlIBlC4XSgSInldK4Tms8Iyg7d3GiswTVXi07E=w426-h240-k-no",
+		"latitude": 40.17943750000002,
+		"longitude": 44.5228125,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595215d"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Mamoor/data=!4m7!3m6!1s0x406abce4cab3f795:0x290027bb89f8b0a3!8m2!3d40.1811913!4d44.5161164!16s%2Fg%2F11g6n885cw!19sChIJlfezyuS8akARo7D4ibsnACk",
+		"title": "Mamoor",
+		"rating": "4.5",
+		"reviewCount": 85,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "14 Abovyan St, Yerevan 0001, Armenia",
+		"website": "",
+		"phoneNumber": "+374 44 548484",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMybQihCCU_NtnxgkNTGhUI1xDjX_eGlDVwRKx7=w408-h304-k-no",
+		"latitude": 40.18118750000001,
+		"longitude": 44.51606249999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595215e"
+		},
+		"placeUrl": "https://www.google.com/maps/place/%D4%BF%D5%A1%D5%AF%D5%BF%D5%B8%D6%82%D5%BD/data=!4m7!3m6!1s0x406abce28c75a86b:0x316a30a519fb4e0c!8m2!3d40.1849308!4d44.5129013!16s%2Fg%2F1v299hq8!19sChIJa6h1jOK8akARDE77GaUwajE",
+		"title": "Կակտուս",
+		"rating": "4.2",
+		"reviewCount": 134,
+		"category": "Mexican restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "42 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+		"website": "cactus.am",
+		"phoneNumber": "+374 10 539939",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMu9hozYjaumUKsabIVwqO3Qvp429ujCW41LgO4=w408-h306-k-no",
+		"latitude": 40.184937500000004,
+		"longitude": 44.51293749999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595215f"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Grillian/data=!4m7!3m6!1s0x406abdf3a4bc3d6b:0x498e39894f3f59c0!8m2!3d40.1833811!4d44.5163974!16s%2Fg%2F11nxs431qf!19sChIJaz28pPO9akARwFk_T4k5jkk",
+		"title": "Grillian",
+		"rating": "4.6",
+		"reviewCount": 64,
+		"category": "Fast food restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "32 Tumanyan St, Yerevan 0001, Armenia",
+		"website": "http://www.grillian.am/",
+		"phoneNumber": "+374 99 008799",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP15SJYI4G6Zl_HsG16QXTE3sXWkcBwoLXt_WtP=w426-h240-k-no",
+		"latitude": 40.18343750000001,
+		"longitude": 44.51643749999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952160"
+		},
+		"placeUrl": "https://www.google.com/maps/place/The+Coast/data=!4m7!3m6!1s0x406abd1e4adb33e3:0x3907cbb90ba2fb97!8m2!3d40.188898!4d44.515732!16s%2Fg%2F11cp5k2908!19sChIJ4zPbSh69akARl_uiC7nLBzk",
+		"title": "The Coast",
+		"rating": "4.5",
+		"reviewCount": 61,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "2, 2 Tamanyan St, Yerevan 0009, Armenia",
+		"website": "https://www.facebook.com/thecoastyerevan/",
+		"phoneNumber": "+374 95 301000",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM_i8o9ndSC1TOzy0r65XB3ycqPZU8dKKBD9anS=w408-h408-k-no",
+		"latitude": 40.188937499999994,
+		"longitude": 44.5156875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952161"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Beirut+Bar+%26+Restaurant/data=!4m7!3m6!1s0x406abdf645902707:0xc59c42795364a9e0!8m2!3d40.1892668!4d44.5148794!16s%2Fg%2F11gjhb36s4!19sChIJByeQRfa9akAR4KlkU3lCnMU",
+		"title": "Beirut Bar & Restaurant",
+		"rating": "4.5",
+		"reviewCount": 17,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "1, 1 Tamanyan St, Yerevan, Armenia",
+		"website": "https://www.facebook.com/BeirutYerevan/",
+		"phoneNumber": "+374 44 833833",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipO66zJKTGenEjyy90KfkL5RSvchJe5Um5jwrT1t=w408-h408-k-no",
+		"latitude": 40.189312499999986,
+		"longitude": 44.51493749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952162"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Fish+House/data=!4m7!3m6!1s0x406abce30dc81a39:0x7507f7a94d8b38eb!8m2!3d40.1794947!4d44.5108391!16s%2Fg%2F11fy4tv5nq!19sChIJORrIDeO8akAR6ziLTan3B3U",
+		"title": "Fish House",
+		"rating": "4.3",
+		"reviewCount": 62,
+		"category": "Seafood restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "4, 2 Amiryan St, Yerevan 0010, Armenia",
+		"website": "https://fishhouse.am/en/",
+		"phoneNumber": "+374 11 707080",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPZYEuhqyb4qq0FI4VV5yyjxk-SiBBDzRkI_1SL=w408-h306-k-no",
+		"latitude": 40.17943750000002,
+		"longitude": 44.5108125,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952163"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Los+Pueblos+Authentic+Mexican+Restaurant/data=!4m7!3m6!1s0x406abd8cf88e9739:0x94ad6d50e2d2a060!8m2!3d40.1900951!4d44.51594!16s%2Fg%2F11fhvm7_07!19sChIJOZeO-Iy9akARYKDS4lBtrZQ",
+		"title": "Los Pueblos Authentic Mexican Restaurant",
+		"rating": "4.6",
+		"reviewCount": 83,
+		"category": "Mexican restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "Cascade, Suites, 6, 18-19 Tamanyan St, Yerevan, Armenia",
+		"website": "http://www.lospueblos.am/",
+		"phoneNumber": "+374 55 459545",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPykBkWpcNJjNIvt5afko8iatXnDLLqE-mtCQlV=w546-h240-k-no",
+		"latitude": 40.190062499999996,
+		"longitude": 44.51593749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952164"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Katsin+Restaurant/data=!4m7!3m6!1s0x406abde086cd6025:0xca014a370e8a581!8m2!3d40.1798355!4d44.5107282!16s%2Fg%2F11rmzkfx17!19sChIJJWDNhuC9akARgaXocKMUoAw",
+		"title": "Katsin Restaurant",
+		"rating": "4.2",
+		"reviewCount": 73,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "4, 6 Amiryan St, Yerevan 0010, Armenia",
+		"website": "https://www.facebook.com/katsinyerevan",
+		"phoneNumber": "+374 77 881001",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOWZQscKycRgItOsy5A1_NPvqvLDThZK65bo2QM=w408-h643-k-no",
+		"latitude": 40.17981250000001,
+		"longitude": 44.5106875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952165"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Wine+Republic/data=!4m7!3m6!1s0x406abd1fb6a4d569:0xef19017ede690f77!8m2!3d40.1892415!4d44.5160598!16s%2Fg%2F11bymx_bzw!19sChIJadWkth-9akARdw9p3n4BGe8",
+		"title": "Wine Republic",
+		"rating": "4.6",
+		"reviewCount": 301,
+		"category": "Wine bar",
+		"attributes": "·  Dine-in",
+		"address": "2 Tamanyan St, Yerevan 0009, Armenia",
+		"website": "",
+		"phoneNumber": "+374 55 001100",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOQq4hvSnJ1Ncts3FRp2FXK1MCylhnzQTgs4wjs=w408-h270-k-no",
+		"latitude": 40.18918749999999,
+		"longitude": 44.51606249999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952166"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Yasaman+Yerevan's+Restaurant/data=!4m7!3m6!1s0x406abd2359874e01:0x52c81e3a00b8ce4e!8m2!3d40.1846706!4d44.5078526!16s%2Fg%2F11fq_n1jmy!19sChIJAU6HWSO9akARTs64ADoeyFI",
+		"title": "Yasaman Yerevan's Restaurant",
+		"rating": "4.2",
+		"reviewCount": 29,
+		"category": "",
+		"attributes": "",
+		"address": "M, 1/1 Yekmalyan St, Yerevan 0002, Armenia",
+		"website": "",
+		"phoneNumber": "+374 11 803333",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMJ_FovQqSwY5y4BLZinORgRL8HS-V7IAev-p_Z=w408-h508-k-no",
+		"latitude": 40.18468750000001,
+		"longitude": 44.507812499999986,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952167"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Elie's+Lahmajun/data=!4m7!3m6!1s0x406abd5ff70d103b:0x918fda62a147490c!8m2!3d40.1742812!4d44.5108894!16s%2Fg%2F11ghrbbjw_!19sChIJOxAN91-9akARDElHoWLaj5E",
+		"title": "Elie's Lahmajun",
+		"rating": "4.7",
+		"reviewCount": 49,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "25, 1/1 Movses Khorenatsi Street, Yerevan 0010, Armenia",
+		"website": "https://www.facebook.com/elieslahmajun/",
+		"phoneNumber": "+374 55 094465",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOxRpUzGXFZselBlBXzmGwnheMjHLcXcD7_mzWW=w408-h544-k-no",
+		"latitude": 40.1743125,
+		"longitude": 44.5109375,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952168"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Al+Mayas+Restaurant/data=!4m7!3m6!1s0x406abd1e56966d95:0x6273e3912f8ce567!8m2!3d40.189642!4d44.5140287!16s%2Fg%2F11c5btrplr!19sChIJlW2WVh69akARZ-WML5Hjc2I",
+		"title": "Al Mayas Restaurant",
+		"rating": "4.4",
+		"reviewCount": 42,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "42, 46 Isahakyan St, Yerevan 0010, Armenia",
+		"website": "https://www.facebook.com/AlMayassYerevan/",
+		"phoneNumber": "+374 99 049949",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMXYKQ7sTGOPpnf4QflegTQweSLCHVWJfR5FMcg=w426-h240-k-no",
+		"latitude": 40.189687500000005,
+		"longitude": 44.51406249999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952169"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Epicure/data=!4m7!3m6!1s0x406abce332df26dd:0x7bf7b63ed3892262!8m2!3d40.1826754!4d44.5128421!16s%2Fg%2F11g6rf2683!19sChIJ3SbfMuO8akARYiKJ0z6293s",
+		"title": "Epicure",
+		"rating": "4.7",
+		"reviewCount": 112,
+		"category": "Modern European restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "40 Pushkin St, Yerevan 0010, Armenia",
+		"website": "https://www.facebook.com/EpicureYerevan/",
+		"phoneNumber": "+374 95 105020",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMh2mWGz9gn8EC1VKOwvNTfy0JWKgqMztkpDMXM=w408-h544-k-no",
+		"latitude": 40.1826875,
+		"longitude": 44.51281249999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595216a"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Yasmine+restaurant/data=!4m7!3m6!1s0x406abd1d7c78600b:0xa7b6c38766476111!8m2!3d40.1856073!4d44.5113127!16s%2Fg%2F11g6ymgfl1!19sChIJC2B4fB29akAREWFHZofDtqc",
+		"title": "Yasmine restaurant",
+		"rating": "4.7",
+		"reviewCount": 65,
+		"category": "Middle Eastern restaurant",
+		"attributes": "·  Dine-in  ·  Curbside pickup  ·  Delivery",
+		"address": "Ghazar Parpetsi St, Yerevan, Armenia",
+		"website": "https://www.facebook.com/people/Yasmine-Restaurant/100063551921450/",
+		"phoneNumber": "+374 94 119345",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOCGoMgUuxY9UOlll_TIatGP_GoP2-Lhgm24vkL=w408-h306-k-no",
+		"latitude": 40.18556249999999,
+		"longitude": 44.51131249999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595216b"
+		},
+		"placeUrl": "https://www.google.com/maps/place/%22Minour%22+Restaurant/data=!4m7!3m6!1s0x406abd9672674ac7:0xc8a80e4ffc6ae661!8m2!3d40.1755463!4d44.5056682!16s%2Fg%2F11gmchymw0!19sChIJx0pncpa9akARYeZq_E8OqMg",
+		"title": "\"Minour\" Restaurant",
+		"rating": "4.7",
+		"reviewCount": 40,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "13/2 Zakyan St, Yerevan, Armenia",
+		"website": "https://www.facebook.com/MINOURARMENIA/",
+		"phoneNumber": "+374 12 777300",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMaHNNac9mGKJ8hzdW7Am-qlcDqW27WAnhNGSaQ=w408-h240-k-no",
+		"latitude": 40.1755625,
+		"longitude": 44.50568750000001,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595216c"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Fabrica+restaurant+and+more/data=!4m7!3m6!1s0x406abd098f40a767:0xaa32b9d2ed0912a2!8m2!3d40.1864231!4d44.5085596!16s%2Fg%2F11ptys10vt!19sChIJZ6dAjwm9akARohIJ7dK5Mqo",
+		"title": "Fabrica restaurant and more",
+		"rating": "4.6",
+		"reviewCount": 11,
+		"category": "Steak house",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "9 Martiros Saryan St, Yerevan 0002, Armenia",
+		"website": "https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2FFabricaRestaurant%2F&refsrc=deprecated&_rdr",
+		"phoneNumber": "",
+		"currentStatus": "",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOddrMsZeqwVv48JsDt5c7vAUJAFDsSHuYpoC2t=w447-h240-k-no",
+		"latitude": 40.1864375,
+		"longitude": 44.5085625,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595216d"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Kamar+Restaurant/data=!4m7!3m6!1s0x406abd43ae451afd:0x1094371821b63d06!8m2!3d40.1794947!4d44.5108391!16s%2Fg%2F11pv3tyyv7!19sChIJ_RpFrkO9akARBj22IRg3lBA",
+		"title": "Kamar Restaurant",
+		"rating": "4.0",
+		"reviewCount": 9,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Curbside pickup  ·  Delivery",
+		"address": "4, 3 Amiryan St, Yerevan 0010, Armenia",
+		"website": "",
+		"phoneNumber": "+374 41 333444",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN9lGrsnZvKhE1xbNrTmYswH2EejVz3QprVQAkP=w408-h271-k-no",
+		"latitude": 40.17943750000002,
+		"longitude": 44.5108125,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595216e"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Zeituna+Home+Of+Food/data=!4m7!3m6!1s0x406abd1e558f6325:0x3d42bf1900b21aa1!8m2!3d40.1821475!4d44.5095661!16s%2Fg%2F11c6cqx2vb!19sChIJJWOPVR69akARoRqyABm_Qj0",
+		"title": "Zeituna Home Of Food",
+		"rating": "4.5",
+		"reviewCount": 137,
+		"category": "Lebanese restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "20, 5GJ5+MXJ, 2 Mesrop Mashtots Ave, Yerevan, Armenia",
+		"website": "https://www.facebook.com/zeitunaa/",
+		"phoneNumber": "+374 77 663662",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPHVu8PnE2ycPDk2KwEn0_CR4nplWy_MLGcWib-=w408-h306-k-no",
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595216f"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Zatar+Pizza/data=!4m7!3m6!1s0x406abcf77a07cf3f:0xb734ee2b36139b1b!8m2!3d40.1752706!4d44.5131978!16s%2Fg%2F11b70hsdt3!19sChIJP88Heve8akARG5sTNivuNLc",
+		"title": "Zatar Pizza",
+		"rating": "4.5",
+		"reviewCount": 148,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "Hanrapetutyan 24, Mher Mkrtchyan St, Yerevan, Armenia",
+		"website": "https://www.facebook.com/ZATAR-PIZZA-474453409264052/",
+		"phoneNumber": "+374 10 525106",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNJdg5ttInAwm8aeKT3T2jWALiXKneTXoGVzUYM=w408-h306-k-no",
+		"latitude": 40.175312500000004,
+		"longitude": 44.5131875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952170"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Level+Eleven+Rooftop+Restaurant/data=!4m7!3m6!1s0x406abcfb3f7dbf7f:0xb16632ea1b38d503!8m2!3d40.180316!4d44.5146627!16s%2Fg%2F11hbt7s61m!19sChIJf799P_u8akARA9U4G-oyZrE",
+		"title": "Level Eleven Rooftop Restaurant",
+		"rating": "3.9",
+		"reviewCount": 13,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "11 Northern Ave, Yerevan 0010, Armenia",
+		"website": "https://goldenpalacehotel.am/",
+		"phoneNumber": "+374 12 220000",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNr_cGuk8POAwAmJsxMXjBiNKfgaGcVu_AhuKOF=w408-h272-k-no",
+		"latitude": 40.1803125,
+		"longitude": 44.514687499999994,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952171"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Tufenkian+Kharpert+Restaurant/data=!4m7!3m6!1s0x406abcf0b9f24607:0x105ec56739c61254!8m2!3d40.1764674!4d44.5165147!16s%2Fg%2F11_j_lk3_!19sChIJB0byufC8akARVBLGOWfFXhA",
+		"title": "Tufenkian Kharpert Restaurant",
+		"rating": "4.3",
+		"reviewCount": 32,
+		"category": "Armenian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "Hanrapetutyan St, Yerevan 0010, Armenia",
+		"website": "https://tufenkianrestaurant.com/",
+		"phoneNumber": "+374 60 501030",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNMUgBJT1g-obf9TkfY-DzpBmBqCZAK1IW9riga=w408-h272-k-no",
+		"latitude": 40.176437500000006,
+		"longitude": 44.51656249999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952172"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Sophiste+Resto-Bar/data=!4m7!3m6!1s0x406abdf7ec619059:0x6e75f1ad8895689a!8m2!3d40.1888491!4d44.5150177!16s%2Fg%2F11hz2_9h8n!19sChIJWZBh7Pe9akARmmiViK3xdW4",
+		"title": "Sophiste Resto-Bar",
+		"rating": "4.4",
+		"reviewCount": 25,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "Cascade Tamanyan 1/2, Yerevan, Armenia",
+		"website": "",
+		"phoneNumber": "+374 98 993277",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOM3E4ufZDXi1VOVn7bsDR-CSn7hW0BezlXF7qk=w408-h269-k-no",
+		"latitude": 40.1888125,
+		"longitude": 44.515062499999985,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952173"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Salon+Armenian/data=!4m7!3m6!1s0x406abcfb3b98561f:0xaf6110f21d4f2608!8m2!3d40.1805796!4d44.5154147!16s%2Fg%2F1ptwrp2gr!19sChIJH1aYO_u8akARCCZPHfIQYa8",
+		"title": "Salon Armenian",
+		"rating": "4.4",
+		"reviewCount": 52,
+		"category": "Armenian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "8 Abovyan St, Yerevan 0010, Armenia",
+		"website": "",
+		"phoneNumber": "+374 11 443333",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipONaOBXX_F3705iml1p9TWNKFyVhyfJ0Zaobv_t=w493-h240-k-no",
+		"latitude": 40.18056249999999,
+		"longitude": 44.515437499999976,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952174"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Jengyalov+Hac+%D4%BA%D5%A5%D5%B6%D5%A3%D5%B5%D5%A1%D5%AC%D5%B8%D5%BE+%D5%80%D5%A1%D6%81/data=!4m7!3m6!1s0x406abce1aa2c7521:0x16e95be31454dd6!8m2!3d40.1868552!4d44.5195859!16s%2Fg%2F11cn7ctpx1!19sChIJIXUsquG8akAR1k1FMb6VbgE",
+		"title": "Jengyalov Hac Ժենգյալով Հաց",
+		"rating": "4.8",
+		"reviewCount": 131,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "62 Teryan St, Yerevan 0009, Armenia",
+		"website": "",
+		"phoneNumber": "+374 10 582205",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOcmMsBuDAbSGpFpNFM_nd6GqP2EWupRkubU5VA=w408-h306-k-no",
+		"latitude": 40.18681249999999,
+		"longitude": 44.51956250000002,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952175"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Smoking+Chef/data=!4m7!3m6!1s0x406abd360e210061:0xda70bba339878923!8m2!3d40.1858999!4d44.5078301!16s%2Fg%2F11ghxtyqqg!19sChIJYQAhDja9akARI4mHOaO7cNo",
+		"title": "Smoking Chef",
+		"rating": "4.6",
+		"reviewCount": 165,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "51 Pushkin St, Yerevan 0002, Armenia",
+		"website": "https://www.yeremyanprojects.com/en/restaurants/smoking-chef",
+		"phoneNumber": "+374 98 670505",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipO80hYPxDSABsR1djh63-esAjQIqnip5iVghXzh=w408-h271-k-no",
+		"latitude": 40.18593750000001,
+		"longitude": 44.507812499999986,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952176"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Eat+%26+Fit+Healthy+Food+Caf%C3%A9/data=!4m7!3m6!1s0x406abd02a3255555:0x22b11b089fdc7de2!8m2!3d40.183787!4d44.5078271!16s%2Fg%2F11gcfszwd5!19sChIJVVUlowK9akAR4n3cnwgbsSI",
+		"title": "Eat & Fit Healthy Food Café",
+		"rating": "4.4",
+		"reviewCount": 157,
+		"category": "Health food restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "80 Aram Street, Yerevan 0002, Armenia",
+		"website": "https://www.facebook.com/eatfityerevan/",
+		"phoneNumber": "+374 44 588080",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMZBjUDa1bMAM4mBrnhDuXjulTfvnw_kQoA1xIr=w408-h272-k-no",
+		"latitude": 40.1838125,
+		"longitude": 44.507812499999986,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952177"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Ai+Leoni/data=!4m7!3m6!1s0x406abd1d97b6819d:0xc9f33e5c8cd8e1d0!8m2!3d40.1866996!4d44.5116493!16s%2Fg%2F1vfn53xv!19sChIJnYG2lx29akAR0OHYjFw-88k",
+		"title": "Ai Leoni",
+		"rating": "4.6",
+		"reviewCount": 27,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "40 Tumanyan St, Yerevan 0002, Armenia",
+		"website": "https://www.facebook.com/aileonirestaurant",
+		"phoneNumber": "+374 10 538331",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNZ-XM1igzx6Rei3JrWpRLKNFvY6bDko9MGkw6S=w408-h306-k-no",
+		"latitude": 40.18668749999999,
+		"longitude": 44.51168749999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952178"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Casa+Nostra/data=!4m7!3m6!1s0x406abd4165e52527:0xd9dba50e665d928d!8m2!3d40.1829944!4d44.5070635!16s%2Fg%2F11rjsrrcbb!19sChIJJyXlZUG9akARjZJdZg6l29k",
+		"title": "Casa Nostra",
+		"rating": "4.7",
+		"reviewCount": 52,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "91 Pavstos Buzand St, Yerevan 0002, Armenia",
+		"website": "https://www.yeremyanprojects.com/en/restaurants/casa-nostra",
+		"phoneNumber": "+374 99 544466",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP4Cv5Xmh69KEgxVuw8l52jl0RiUsClavE5C6g3=w408-h271-k-no",
+		"latitude": 40.182937499999994,
+		"longitude": 44.5070625,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952179"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Aperitivo+Yerevan/data=!4m7!3m6!1s0x406abd1fc6ab03af:0xffd8d7f679a90f0e!8m2!3d40.1887546!4d44.5149999!16s%2Fg%2F11bbrh7mqc!19sChIJrwOrxh-9akARDg-pefbX2P8",
+		"title": "Aperitivo Yerevan",
+		"rating": "4.5",
+		"reviewCount": 122,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "1, 3 Tamanyan St, Yerevan 0009, Armenia",
+		"website": "https://www.facebook.com/aperitivoyerevan",
+		"phoneNumber": "+374 55 586584",
+		"currentStatus": "Open now",
+		"info": "LGBTQ+ friendly",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNRK2z0m7AAvWU-wbt5z1uWjn1DXUgheCyM6FCA=w408-h544-k-no",
+		"latitude": 40.1888125,
+		"longitude": 44.51493749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595217a"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Voskevaz+Wine+Time/data=!4m7!3m6!1s0x406abd1cfb7902db:0x3e7e5e172e3be054!8m2!3d40.1868861!4d44.5085979!16s%2Fg%2F11cnc43_00!19sChIJ2wJ5-xy9akARVOA7Lhdefj4",
+		"title": "Voskevaz Wine Time",
+		"rating": "4.5",
+		"reviewCount": 95,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "6 Martiros Saryan St, Yerevan 0002, Armenia",
+		"website": "",
+		"phoneNumber": "+374 91 776262",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP6Ikuky27wZLmsco983ITo6qhfGtyJehdLkY-r=w408-h544-k-no",
+		"latitude": 40.18693750000001,
+		"longitude": 44.5085625,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595217b"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Mante+Restaurant/data=!4m7!3m6!1s0x406abd934a77d533:0x2f6dbb2c1dba7592!8m2!3d40.1864079!4d44.513576!16s%2Fg%2F11p747w3kh!19sChIJM9V3SpO9akARknW6HSy7bS8",
+		"title": "Mante Restaurant",
+		"rating": "4.7",
+		"reviewCount": 98,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "37 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+		"website": "https://sites.google.com/manterestaurant.com/mante/home",
+		"phoneNumber": "+374 55 879867",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM9zi6eMsAAE6ma25HXIRBIc1Ytumvrt12ts9Hp=w426-h240-k-no",
+		"latitude": 40.1864375,
+		"longitude": 44.51356249999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595217c"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Yeraz+Restaurant/data=!4m7!3m6!1s0x406aa357e12c70bf:0x9346c5b8f5d8cd69!8m2!3d40.2121139!4d44.5308173!16s%2Fg%2F11grv3hhd9!19sChIJv3As4VejakARac3Y9bjFRpM",
+		"title": "Yeraz Restaurant",
+		"rating": "3.5",
+		"reviewCount": 11,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "Tbilisyan Hwy, Yerevan, Armenia",
+		"website": "",
+		"phoneNumber": "+374 41 262262",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPP8sWF9jnIGV_GUC9SuxY2Xb6CpeiR6-9WX52W=w408-h306-k-no",
+		"latitude": 40.21206249999999,
+		"longitude": 44.53081250000001,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595217d"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Derian+Restaurant/data=!4m7!3m6!1s0x406abcf0d4a554c1:0x45b343c2cece3a4a!8m2!3d40.1755928!4d44.51716!16s%2Fg%2F11c0tj69zb!19sChIJwVSl1PC8akARSjrOzsJDs0U",
+		"title": "Derian Restaurant",
+		"rating": "4.4",
+		"reviewCount": 83,
+		"category": "Middle Eastern restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "1, 3 Buzand St, Yerevan 0010, Armenia",
+		"website": "http://derianrestaurant.com/",
+		"phoneNumber": "+374 11 750750",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPHUrHlmTQwWBQZtVGQurJMde1P9bRD5th5-Rmd=w426-h240-k-no",
+		"latitude": 40.1755625,
+		"longitude": 44.51718749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595217e"
+		},
+		"placeUrl": "https://www.google.com/maps/place/SKY+BY+VEREV/data=!4m7!3m6!1s0x406abcfb4b549a1f:0xcdec080141b654b7!8m2!3d40.1741002!4d44.5056821!16s%2Fg%2F11c48ngj_8!19sChIJH5pUS_u8akARt1S2QQEI7M0",
+		"title": "SKY BY VEREV",
+		"rating": "4.3",
+		"reviewCount": 57,
+		"category": "Cocktail bar",
+		"attributes": "·  Dine-in",
+		"address": "9 Grigor Lusavorich, 7th floor AM 0015, 0001, Armenia",
+		"website": "https://www.facebook.com/SkybyVerev/",
+		"phoneNumber": "+374 77 889889",
+		"currentStatus": "Closed",
+		"info": "LGBTQ+ friendly",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOetEv5EtXIlp08nKEQNSCMVS75_HI_3Xok9LCU=w457-h240-k-no",
+		"latitude": 40.174062500000005,
+		"longitude": 44.50568750000001,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595217f"
+		},
+		"placeUrl": "https://www.google.com/maps/place/ELIZA+Cafe%26Restaurant/data=!4m7!3m6!1s0x406abd1436495e85:0x9c54e0a8007fed56!8m2!3d40.1792456!4d44.5247413!16s%2Fg%2F11ghfr7_75!19sChIJhV5JNhS9akARVu1_AKjgVJw",
+		"title": "ELIZA Cafe&Restaurant",
+		"rating": "3.6",
+		"reviewCount": 7,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "4/3 Alek Manukyan St, Yerevan 0025, Armenia",
+		"website": "https://www.facebook.com/ElizaRestaurant/",
+		"phoneNumber": "+374 10 572020",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPxwFYl1sfU4-4qu8C7a4j9Pfu2PolaCWm11Q-a=w408-h272-k-no",
+		"latitude": 40.1791875,
+		"longitude": 44.52468750000001,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952180"
+		},
+		"placeUrl": "https://www.google.com/maps/place/La+Cucina/data=!4m7!3m6!1s0x406abd0000000001:0x5b0b46c55598f145!8m2!3d40.1853716!4d44.517821!16s%2Fg%2F11h1197k9!19sChIJAQAAAAC9akARRfGYVcVGC1s",
+		"title": "La Cucina",
+		"rating": "4.6",
+		"reviewCount": 53,
+		"category": "Italian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "52 Teryan St, Yerevan 0009, Armenia",
+		"website": "",
+		"phoneNumber": "+374 10 584058",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMVobyIHhbsG4Dyu0dMFyRgapGtOqWGcd0Hlpjt=w408-h544-k-no",
+		"latitude": 40.185312499999995,
+		"longitude": 44.517812500000005,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952181"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Asador/data=!4m7!3m6!1s0x406abce00ffb2e13:0xf42b3bb07dc5643a!8m2!3d40.1888458!4d44.5198627!16s%2Fg%2F11f3_vg4nt!19sChIJEy77D-C8akAROmTFfbA7K_Q",
+		"title": "Asador",
+		"rating": "4.3",
+		"reviewCount": 101,
+		"category": "Seafood restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "28 Isahakyan St, Yerevan 0009, Armenia",
+		"website": "https://www.facebook.com/asadoryerevan/",
+		"phoneNumber": "+374 44 002200",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNxdOmCE9HJgghTGI8FK9iH0iG8660KAh8hGf-9=w408-h272-k-no",
+		"latitude": 40.1888125,
+		"longitude": 44.519812500000015,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952182"
+		},
+		"placeUrl": "https://www.google.com/maps/place/OST/data=!4m7!3m6!1s0x406abcfc4b331d77:0xe79630f987c972e8!8m2!3d40.1810484!4d44.5081945!16s%2Fg%2F11b7jkhv21!19sChIJdx0zS_y8akAR6HLJh_kwluc",
+		"title": "OST",
+		"rating": "4.5",
+		"reviewCount": 111,
+		"category": "Fast food restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "20 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+		"website": "https://www.spyur.am/ost",
+		"phoneNumber": "+374 10 539580",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP3MjlKShBVgW4HbhJZGSx3WLhCryT6mu3gHjH1=w426-h240-k-no",
+		"latitude": 40.18106250000001,
+		"longitude": 44.508187500000005,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952183"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Babylon/data=!4m7!3m6!1s0x406abcfda720768b:0x9d7efa28d9f03581!8m2!3d40.1829611!4d44.5072718!16s%2Fg%2F11fzfdgt5_!19sChIJi3Ygp_28akARgTXw2Sj6fp0",
+		"title": "Babylon",
+		"rating": "4.4",
+		"reviewCount": 126,
+		"category": "Middle Eastern restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "0002, 91 Pavstos Buzand St, Yerevan, Armenia",
+		"website": "",
+		"phoneNumber": "+374 60 488884",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN-FdBeJBv1ixpcD77Zuzf6Cxaqrn9VzF1kPc9v=w448-h240-k-no",
+		"latitude": 40.182937499999994,
+		"longitude": 44.5073125,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952184"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Abu+Hagop+Restaurant/data=!4m7!3m6!1s0x406abc5f79f85ceb:0x33040a7506616045!8m2!3d40.1832009!4d44.512347!16s%2Fg%2F11g7z4prhq!19sChIJ61z4eV-8akARRWBhBnUKBDM",
+		"title": "Abu Hagop Restaurant",
+		"rating": "4.3",
+		"reviewCount": 55,
+		"category": "Middle Eastern restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "44 Pushkin St, Yerevan, Armenia",
+		"website": "https://www.facebook.com/AbuHagopRestaurantinArmenia/",
+		"phoneNumber": "+374 99 120164",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOgjfFeWC_2LbMj4yABP6muZLrh7y4zokXqWjYa=w408-h302-k-no",
+		"latitude": 40.18318750000002,
+		"longitude": 44.51231249999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952185"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Arami/data=!4m7!3m6!1s0x406abd1721307489:0xe71d7676b9bc9e36!8m2!3d40.1796292!4d44.5132834!16s%2Fg%2F11sgbgjrz3!19sChIJiXQwIRe9akARNp68uXZ2Hec",
+		"title": "Arami",
+		"rating": "4.8",
+		"reviewCount": 107,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "7 Aram Street, Yerevan 0001, Armenia",
+		"website": "https://www.aramirestbar.com/",
+		"phoneNumber": "+374 43 340007",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipO_XaHzcFJoERZiyFB2VIoTFZtXqqshFrLg7p3u=w408-h509-k-no",
+		"latitude": 40.179687500000014,
+		"longitude": 44.5133125,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952186"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Vienna+Ribs/data=!4m7!3m6!1s0x406abd025bc01645:0xf9be597ea04853d5!8m2!3d40.18372!4d44.5047423!16s%2Fg%2F1tcxn4pz!19sChIJRRbAWwK9akAR1VNIoH5Zvvk",
+		"title": "Vienna Ribs",
+		"rating": "4.5",
+		"reviewCount": 130,
+		"category": "Brewpub",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "24 Martiros Saryan St, Yerevan 0002, Armenia",
+		"website": "",
+		"phoneNumber": "+374 60 530007",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPkhwDWSPEuf5ZYsut6fJIw7_2jFdIldILkkDZ1=w408-h306-k-no",
+		"latitude": 40.183687500000005,
+		"longitude": 44.5046875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952187"
+		},
+		"placeUrl": "https://www.google.com/maps/place/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B0%D1%8F+%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D0%B0/data=!4m7!3m6!1s0x406abcfbf87484d3:0xd1c607fcd9da0baa!8m2!3d40.1794605!4d44.510122!16s%2Fg%2F11c3_9vl9m!19sChIJ04R0-Pu8akARqgva2fwHxtE",
+		"title": "Кавказская пленница",
+		"rating": "4.4",
+		"reviewCount": 899,
+		"category": "Georgian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "4/ 0001,, 6 Amiryan St, Yerevan 0001, Armenia",
+		"website": "",
+		"phoneNumber": "+374 10 548291",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipObAgIYQQalVbfI1Vn5-_r_S-nR8ZbBrSfVtDmN=w408-h543-k-no",
+		"latitude": 40.17943750000002,
+		"longitude": 44.51006249999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952188"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Chaman+Home-Restaurant/data=!4m7!3m6!1s0x406abcffc76b2879:0x7c97067505bdb4cd!8m2!3d40.179423!4d44.502236!16s%2Fg%2F11g6bwczmx!19sChIJeShrx_-8akARzbS9BXUGl3w",
+		"title": "Chaman Home-Restaurant",
+		"rating": "4.6",
+		"reviewCount": 42,
+		"category": "Armenian restaurant",
+		"attributes": "·  Dine-in  ·  Curbside pickup  ·  Delivery",
+		"address": "13 Leo St, Yerevan 0002, Armenia",
+		"website": "",
+		"phoneNumber": "+374 99 539268",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPmLqC0gwZnsu-ITDwfhVGdhMYwto7hXMF8rtrI=w408-h272-k-no",
+		"latitude": 40.17943750000002,
+		"longitude": 44.502187500000005,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952189"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Noyan+Restaurant/data=!4m7!3m6!1s0x406abd1d5eab8611:0xef5211b60df6de33!8m2!3d40.185034!4d44.510157!16s%2Fg%2F11cmzqnynf!19sChIJEYarXh29akARM972DbYRUu8",
+		"title": "Noyan Restaurant",
+		"rating": "4.6",
+		"reviewCount": 62,
+		"category": "Armenian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "9/15 Gh. Parpetsi, Yerevan 0002, Armenia",
+		"website": "",
+		"phoneNumber": "+374 10 535030",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOH4pub3_WP5E-9cPXpcZVEUUjPlFDVMLvx4p62=w408-h306-k-no",
+		"latitude": 40.1850625,
+		"longitude": 44.51018749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595218a"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Montana/data=!4m7!3m6!1s0x406abcef96da89d1:0x4925087f67c0a894!8m2!3d40.1820519!4d44.5245376!16s%2Fg%2F11b6bvpspp!19sChIJ0Ynalu-8akARlKjAZ38IJUk",
+		"title": "Montana",
+		"rating": "4.5",
+		"reviewCount": 42,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Drive-through  ·  No-contact delivery",
+		"address": "4, 3 Alek Manukyan St, Yerevan 0025, Armenia",
+		"website": "https://montana.am/",
+		"phoneNumber": "+374 77 999945",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOPkBQB1A1rBabVUaOKKTTYa8O3g6feUD5nV3cB=w408-h271-k-no",
+		"latitude": 40.182062500000015,
+		"longitude": 44.524562500000016,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595218b"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Old+Marani+Restaurant/data=!4m7!3m6!1s0x406abdcb7f8a4b47:0xfdfe549d871e2929!8m2!3d40.1782864!4d44.5248225!16s%2Fg%2F11rp_v12_0!19sChIJR0uKf8u9akARKSkeh51U_v0",
+		"title": "Old Marani Restaurant",
+		"rating": "4.7",
+		"reviewCount": 6,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Curbside pickup  ·  Delivery",
+		"address": "7 Alek Manukyan St, Yerevan 0070, Armenia",
+		"website": "https://www.marani.am/",
+		"phoneNumber": "+374 33 888999",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPWC_ocRwj-1VLlGfDro7x-JS4_O3BQgK0Yy9Hu=w408-h482-k-no",
+		"latitude": 40.17831250000002,
+		"longitude": 44.52481250000001,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595218c"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Genacvale+Komitas+Branch/data=!4m7!3m6!1s0x406abd485919a507:0x373b6585e4a0cb61!8m2!3d40.207092!4d44.5084278!16s%2Fg%2F11cs051ygq!19sChIJB6UZWUi9akARYcug5IVlOzc",
+		"title": "Genacvale Komitas Branch",
+		"rating": "4.3",
+		"reviewCount": 128,
+		"category": "Georgian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "35, 2 Komitas Ave, Yerevan 0051, Armenia",
+		"website": "https://genacvale.am/",
+		"phoneNumber": "+374 10 277999",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP8hU4_RTYjQYuL3MjeK_WeXq2Hq54kqIeN2KQ5=w408-h272-k-no",
+		"latitude": 40.20706249999999,
+		"longitude": 44.5084375,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595218d"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Elen/data=!4m7!3m6!1s0x406abcfe80986885:0x32f368e90e36fb86!8m2!3d40.1803811!4d44.5067089!16s%2Fg%2F11c55hx5r2!19sChIJhWiYgP68akARhvs2Dulo8zI",
+		"title": "Elen",
+		"rating": "4.4",
+		"reviewCount": 26,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "5GJ4+5M4, Yerevan, Armenia",
+		"website": "",
+		"phoneNumber": "+374 10 534221",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPog-VHnGVCKxZGLehDb14ItVVabv0xX5-qWWXb=w426-h240-k-no",
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595218e"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Araks+Restaurant+Yerevan/data=!4m7!3m6!1s0x406abd1d9664da35:0xe400c9268d012fff!8m2!3d40.1867995!4d44.5121276!16s%2Fg%2F11b_3gf885!19sChIJNdpklh29akAR_y8BjSbJAOQ",
+		"title": "Araks Restaurant Yerevan",
+		"rating": "4.5",
+		"reviewCount": 63,
+		"category": "Middle Eastern restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "0002, 40 Tumanyan St, Yerevan 0002, Armenia",
+		"website": "https://www.facebook.com/AraksYerevan",
+		"phoneNumber": "+374 11 200206",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOjNEKafAqDbHwaG-NiQRWfQn8WLfVlCO7F0V0v=w426-h240-k-no",
+		"latitude": 40.18681249999999,
+		"longitude": 44.512187499999996,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595218f"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Villa+Avenue/data=!4m7!3m6!1s0x406abd7ca3e83b8b:0x670b9c691f03b18e!8m2!3d40.1821366!4d44.5135717!16s%2Fg%2F11jgw30n39!19sChIJizvoo3y9akARjrEDH2mcC2c",
+		"title": "Villa Avenue",
+		"rating": "3.4",
+		"reviewCount": 15,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "5GJ7+VC4, Yerevan, Armenia",
+		"website": "",
+		"phoneNumber": "+374 33 709000",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPDY3aPhs6miTHXefKw9sLivqfa6wl6MrKGA1rE=w426-h240-k-no",
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952190"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Flagman+Cafe+Restaurant/data=!4m7!3m6!1s0x406abcee49976931:0x98f51f4283e60bc!8m2!3d40.1786428!4d44.5243749!16s%2Fg%2F1v5k1hfv!19sChIJMWmXSe68akARvGA-KPRRjwk",
+		"title": "Flagman Cafe Restaurant",
+		"rating": "4.4",
+		"reviewCount": 108,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Curbside pickup  ·  No-contact delivery",
+		"address": "Sayat Nova, 26 6 St, Yerevan 0070, Armenia",
+		"website": "https://flagman-cafe.business.site/",
+		"phoneNumber": "+374 95 180180",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipO8tzVz5bmX_wu2XhyU-1PCMfqqkApQ3LmqIzHk=w408-h306-k-no",
+		"latitude": 40.17868750000001,
+		"longitude": 44.52431249999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952191"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Avocado+Queen/data=!4m7!3m6!1s0x406abdb2375327e5:0xf8d86df8277035cd!8m2!3d40.1872421!4d44.5093171!16s%2Fg%2F11rqszgwjx!19sChIJ5SdTN7K9akARzTVwJ_ht2Pg",
+		"title": "Avocado Queen",
+		"rating": "4.2",
+		"reviewCount": 54,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Curbside pickup  ·  No-contact delivery",
+		"address": "2, 2 Martiros Saryan St, Yerevan 0002, Armenia",
+		"website": "https://highline.am/",
+		"phoneNumber": "+374 11 779977",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP0tHOiJTAUCtm1CQ34wBtkNVnwnTN4V8W0-_T5=w408-h510-k-no",
+		"latitude": 40.18718750000001,
+		"longitude": 44.50931249999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952192"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Meeting+Point+Gastro+Cafe+and+Terrace/data=!4m7!3m6!1s0x406abcf963d1253f:0xd9e12e60fa7aa115!8m2!3d40.1776757!4d44.5115093!16s%2Fg%2F11fy_qm55l!19sChIJPyXRY_m8akARFaF6-mAu4dk",
+		"title": "Meeting Point Gastro Cafe and Terrace",
+		"rating": "3.7",
+		"reviewCount": 12,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "1 Amiryan St, Yerevan 0010, Armenia",
+		"website": "marriott.com",
+		"phoneNumber": "+374 44 599990",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOu4Xl6J-AlvPW5lLZsd4Hw6K7dlil1u_PnX2UE=w408-h612-k-no",
+		"latitude": 40.177687500000005,
+		"longitude": 44.51156249999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952193"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Bardiner+Restaurant/data=!4m7!3m6!1s0x406abd0724e3df11:0x5e009cef3099480f!8m2!3d40.1900144!4d44.496506!16s%2Fg%2F11ggn0x0v9!19sChIJEd_jJAe9akARD0iZMO-cAF4",
+		"title": "Bardiner Restaurant",
+		"rating": "4.4",
+		"reviewCount": 51,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "71 Hrazdan Gorge, Yerevan, Armenia",
+		"website": "https://bardiner-restaurant.business.site/",
+		"phoneNumber": "+374 10 540771",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN0xk4ygcaaE3Vl1KHjfUbrvfrrvzYDYLCdZEm9=w408-h306-k-no",
+		"latitude": 40.190062499999996,
+		"longitude": 44.49656249999997,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952194"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Novella+Music+Hall/data=!4m7!3m6!1s0x406abcfcbd92dd4b:0x39bc84992e767da8!8m2!3d40.1824272!4d44.5248618!16s%2Fg%2F11f2t0pp9l!19sChIJS92Svfy8akARqH12LpmEvDk",
+		"title": "Novella Music Hall",
+		"rating": "4.6",
+		"reviewCount": 40,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "2, 1 Alek Manukyan St, Yerevan, Armenia",
+		"website": "https://novella.am/",
+		"phoneNumber": "+374 94 503330",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOB1lOLojmxVIskXeZARXVMSWA2Blmtt8Wb4zNg=w595-h240-k-no",
+		"latitude": 40.182437500000006,
+		"longitude": 44.52481250000001,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952195"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Masoor+Restaurant/data=!4m7!3m6!1s0x406abd1755b513ab:0x29e1edaaa11bfdfc!8m2!3d40.1770945!4d44.515641!16s%2Fg%2F11fm9tvhy4!19sChIJqxO1VRe9akAR_P0boart4Sk",
+		"title": "Masoor Restaurant",
+		"rating": "4.1",
+		"reviewCount": 21,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "3, 25 Pavstos Buzand St, Yerevan, Armenia",
+		"website": "",
+		"phoneNumber": "+374 12 810810",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNEqFG6gXSo5VZ-rkcSCqxrK8ZqLGTF-DXCngQT=w408-h272-k-no",
+		"latitude": 40.17706250000002,
+		"longitude": 44.5156875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952196"
+		},
+		"placeUrl": "https://www.google.com/maps/place/India+Palace+Restaurant/data=!4m7!3m6!1s0x406abdcdb68ead49:0x85e4f03c53271ab1!8m2!3d40.1787136!4d44.5105392!16s%2Fg%2F11fb0sxqv7!19sChIJSa2Ots29akARsRonUzzw5IU",
+		"title": "India Palace Restaurant",
+		"rating": "4.1",
+		"reviewCount": 132,
+		"category": "Indian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "3 Amiryan St, Yerevan 0010, Armenia",
+		"website": "indiapalacearmenia.com",
+		"phoneNumber": "+374 11 288388",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOauihIJGdeqCvRmjWPw_KJ73WWXOaIfAKBygcB=w408-h306-k-no",
+		"latitude": 40.17868750000001,
+		"longitude": 44.51056249999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952197"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Parvana/data=!4m7!3m6!1s0x406abd0effa40053:0x3b1998765fd3c0c7!8m2!3d40.1894289!4d44.4929074!16s%2Fg%2F119t_9zq4!19sChIJUwCk_w69akARx8DTX3aYGTs",
+		"title": "Parvana",
+		"rating": "3.9",
+		"reviewCount": 310,
+		"category": "Armenian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "5FQV+Q5F, Hrazdan Gorge, Yerevan 0082, Armenia",
+		"website": "parvana.info.am",
+		"phoneNumber": "+374 10 546001",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPxM08t9ilb8JpCPjGFuuEt-ICUSJmKIRZXfX6g=w408-h306-k-no",
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952198"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Karas/data=!4m7!3m6!1s0x406abcfbb00f30d5:0x4adfdb36d22cb323!8m2!3d40.1790057!4d44.5132403!16s%2Fg%2F11bychg6n_!19sChIJ1TAPsPu8akARI7Ms0jbb30o",
+		"title": "Karas",
+		"rating": "3.8",
+		"reviewCount": 178,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "1, 1 Abovyan St, Yerevan 0010, Armenia",
+		"website": "karas.am",
+		"phoneNumber": "+374 10 325555",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPx1MTGjcB0PG3H88tdNfPMBqMhL3FAjkdLo9s0=w408-h270-k-no",
+		"latitude": 40.1790625,
+		"longitude": 44.5131875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e05952199"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Anteb+Restaurant/data=!4m7!3m6!1s0x406abcfce903bda9:0x337e7fbae90f6c33!8m2!3d40.181892!4d44.5116501!16s%2Fg%2F1tcyjjf4!19sChIJqb0D6fy8akARM2wP6bp_fjM",
+		"title": "Anteb Restaurant",
+		"rating": "4.5",
+		"reviewCount": 546,
+		"category": "Middle Eastern restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "30 Yeznik Koghbatsi St, Yerevan, Armenia",
+		"website": "https://www.facebook.com/antebrestaurantyerevan/",
+		"phoneNumber": "+374 10 530988",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOCt3U3k3dfL439H5H0HmyMrxgfu1Mc2Ln9JtIX=w408-h306-k-no",
+		"latitude": 40.18193750000002,
+		"longitude": 44.51168749999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595219a"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Shirvan+Persian+Halal+Restaurant/data=!4m7!3m6!1s0x406abce3799e8dd5:0x19b635863de54c3e!8m2!3d40.1832628!4d44.5165573!16s%2Fg%2F11b7hm1hxp!19sChIJ1Y2eeeO8akARPkzlPYY1thk",
+		"title": "Shirvan Persian Halal Restaurant",
+		"rating": "4.4",
+		"reviewCount": 239,
+		"category": "Persian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "32, 14 Tumanyan St, Yerevan 0001, Armenia",
+		"website": "https://shirvan-persian-restaurant.business.site/?m=true",
+		"phoneNumber": "+374 10 582565",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNryVBzT8bztaqu0-O72cLUMqZToAES4c5g0cxU=w488-h240-k-no",
+		"latitude": 40.183312500000014,
+		"longitude": 44.51656249999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595219b"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Dargett+Craft+Beer/data=!4m7!3m6!1s0x406abd02bfb1571d:0x42f7c256adb86ebc!8m2!3d40.1836047!4d44.5081033!16s%2Fg%2F11cmffd1vr!19sChIJHVexvwK9akARvG64rVbC90I",
+		"title": "Dargett Craft Beer",
+		"rating": "4.6",
+		"reviewCount": 499,
+		"category": "Brewpub",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "72 Aram Street, Yerevan 0001, Armenia",
+		"website": "https://dargett.com/",
+		"phoneNumber": "+374 96 870870",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM8psapCobZd7XwYdOpD-uTbIu0-BzGR7rlHHR0=w408-h272-k-no",
+		"latitude": 40.18356250000001,
+		"longitude": 44.50806249999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595219c"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Mussa+Cafe+%26+Restaurant/data=!4m7!3m6!1s0x406abd864e06a285:0x21230ddaa60cfc87!8m2!3d40.1870445!4d44.509695!16s%2Fg%2F11nxv5f1cf!19sChIJhaIGToa9akARh_wMptoNIyE",
+		"title": "Mussa Cafe & Restaurant",
+		"rating": "",
+		"reviewCount": "",
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "1/30 Martiros Saryan St, Yerevan 0002, Armenia",
+		"website": "https://mussa.am/",
+		"phoneNumber": "+374 77 777034",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPuUp-Kl9A8ChmHMYWq80ZiIkxYhzrWo6mSVrrr=w408-h306-k-no",
+		"latitude": 40.18706250000001,
+		"longitude": 44.5096875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595219d"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Bellagio/data=!4m10!3m9!1s0x406abcd9ea9eab95:0xf961e24ccc7579d3!5m2!4m1!1i2!8m2!3d40.1922404!4d44.5330418!16s%2Fg%2F1td0d_5m!19sChIJlaue6tm8akAR03l1zEziYfk",
+		"title": "Bellagio",
+		"rating": "4.5",
+		"reviewCount": 156,
+		"category": "",
+		"attributes": "",
+		"address": "2 Myasnikyan Ave, Yerevan 0025, Armenia",
+		"website": "bellagio.am",
+		"phoneNumber": "+374 10 551212",
+		"currentStatus": "",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPEjaKKxmyEnR3IVtdLLkQj69r8SAhYl7E3KV_g=w426-h240-k-no",
+		"latitude": 40.1921875,
+		"longitude": 44.533062499999986,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595219e"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Adastra/data=!4m7!3m6!1s0x406abd24f9bae2b3:0xe0f2effb2c6b0a69!8m2!3d40.1971496!4d44.5190255!16s%2Fg%2F11g70wydf5!19sChIJs-K6-SS9akARaQprLPvv8uA",
+		"title": "Adastra",
+		"rating": "4.9",
+		"reviewCount": 9,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "1 Azatutyan Ave, Yerevan 0037, Armenia",
+		"website": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-yerevan",
+		"phoneNumber": "+374 10 219999",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPdBWSwDdK6xcVKW-gYeGnbq4h_zD7VTfxO11xF=w408-h306-k-no",
+		"latitude": 40.1971875,
+		"longitude": 44.519062500000004,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e0595219f"
+		},
+		"placeUrl": "https://www.google.com/maps/place/George%E2%80%99s+dom/data=!4m7!3m6!1s0x406abda0a6459ff9:0x159890c8c301f7c!8m2!3d40.1857576!4d44.5078076!16s%2Fg%2F11spg4kpl0!19sChIJ-Z9FpqC9akARfB8wjAyJWQE",
+		"title": "George’s dom",
+		"rating": "3.8",
+		"reviewCount": 25,
+		"category": "Family restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "19 Martiros Saryan St, Yerevan 0002, Armenia",
+		"website": "",
+		"phoneNumber": "",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOXANkchJ8S-CRbWWquwB59sc21lLDRlHyez7w0=w408-h544-k-no",
+		"latitude": 40.18581250000001,
+		"longitude": 44.507812499999986,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521a0"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Rehani+Grillhouse/data=!4m7!3m6!1s0x406abd6756ddd743:0x2605f4d93bdcc00b!8m2!3d40.1902656!4d44.4813882!16s%2Fg%2F11g1p2s7nv!19sChIJQ9fdVme9akARC8DcO9n0BSY",
+		"title": "Rehani Grillhouse",
+		"rating": "4.0",
+		"reviewCount": 7,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "1, 6 Leningradyan St, Yerevan 0038, Armenia",
+		"website": "",
+		"phoneNumber": "+374 44 800606",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMYZ1-x8OiJXO7skpj82a2Md0TLhtY5SJ4ni03g=w408-h263-k-no",
+		"latitude": 40.19031249999999,
+		"longitude": 44.481437499999984,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521a1"
+		},
+		"placeUrl": "https://www.google.com/maps/place/The+Garden/data=!4m7!3m6!1s0x406abde8e1af4b9f:0xd698febffdbcded5!8m2!3d40.1820347!4d44.5094386!16s%2Fg%2F11rd8jyfdy!19sChIJn0uv4ei9akAR1d68_b_-mNY",
+		"title": "The Garden",
+		"rating": "4.2",
+		"reviewCount": 30,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "20/7 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+		"website": "",
+		"phoneNumber": "+374 44 808909",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMTXMjZFMTbiJfRt6V_9e40Rwdt8r7lrmjgk_eI=w426-h240-k-no",
+		"latitude": 40.182062500000015,
+		"longitude": 44.509437500000004,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521a2"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Monte+Cristo/data=!4m7!3m6!1s0x406abd0fc18d25a1:0x6e76d58ed9cc5dbb!8m2!3d40.1897027!4d44.4966999!16s%2Fg%2F11xcfnrfb!19sChIJoSWNwQ-9akARu13M2Y7Vdm4",
+		"title": "Monte Cristo",
+		"rating": "4.2",
+		"reviewCount": 77,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "Hrazdan Gorge, Yerevan, Armenia",
+		"website": "",
+		"phoneNumber": "+374 10 543398",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMtSQ5yVK6Iw6TiVafrEZ3tQZ1xUT-RjlHRGe5p=w408-h272-k-no",
+		"latitude": 40.189687500000005,
+		"longitude": 44.496687499999965,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521a3"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Martini+Royale/data=!4m7!3m6!1s0x406abce4c9161281:0x8c4a0d4d3d7b9474!8m2!3d40.1812148!4d44.5167497!16s%2Fg%2F11b7g2ykqy!19sChIJgRIWyeS8akARdJR7PU0NSow",
+		"title": "Martini Royale",
+		"rating": "4.3",
+		"reviewCount": 43,
+		"category": "Italian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "16 Abovyan St, Yerevan, Armenia",
+		"website": "",
+		"phoneNumber": "+374 60 540101",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNmKCYjThMJEuuM3nJHTT_3WBW2Dtznu72zLieX=w408-h274-k-no",
+		"latitude": 40.18118750000001,
+		"longitude": 44.516687499999975,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521a4"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Zanzibar/data=!4m7!3m6!1s0x406abd4b07faaeed:0x77e886a1d3554f4c!8m2!3d40.1866807!4d44.5083135!16s%2Fg%2F11mxn7r7g_!19sChIJ7a76B0u9akARTE9V06GG6Hc",
+		"title": "Zanzibar",
+		"rating": "3.9",
+		"reviewCount": 84,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "10 Martiros Saryan St, Yerevan 0002, Armenia",
+		"website": "",
+		"phoneNumber": "+374 12 771277",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPSL66lam6GYZi5ff514IDJLKwttZv6I6v4mLpt=w408-h270-k-no",
+		"latitude": 40.18668749999999,
+		"longitude": 44.5083125,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521a5"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Rooby+Cafe+Cascade/data=!4m7!3m6!1s0x406abd25683d60bf:0xf8f271d2abfabd3f!8m2!3d40.1900951!4d44.51594!16s%2Fg%2F11fmc13ddj!19sChIJv2A9aCW9akARP736q9Jx8vg",
+		"title": "Rooby Cafe Cascade",
+		"rating": "4.8",
+		"reviewCount": 23,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "6 Tamanyan St, Yerevan, Armenia",
+		"website": "https://www.instagram.com/rooby_cafe_cascade/",
+		"phoneNumber": "+374 99 531312",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMdot9QdUw6Yd8ZtWwWWvod5lLnxUnfQCLn6AzZ=w408-h408-k-no",
+		"latitude": 40.190062499999996,
+		"longitude": 44.51593749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521a6"
+		},
+		"placeUrl": "https://www.google.com/maps/place/La+Fayette+Restaurant/data=!4m7!3m6!1s0x406abcbf0af1266b:0x70d8f5081f66412a!8m2!3d40.1843982!4d44.5474997!16s%2Fg%2F11c2ls4b78!19sChIJaybxCr-8akARKkFmHwj12HA",
+		"title": "La Fayette Restaurant",
+		"rating": "4.9",
+		"reviewCount": 17,
+		"category": "French restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "16 13th St, Yerevan, Armenia",
+		"website": "",
+		"phoneNumber": "+374 11 212211",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOiZtP_Z_p6Q7vfzfqdiJKTv8hARFAzEdkWuyVA=w408-h263-k-no",
+		"latitude": 40.184437500000016,
+		"longitude": 44.54743749999999,
+		"reviews": [
+			{
+				"review": "Ok place!",
+				"rating": 3.3,
+				"userId": "FaNFPsop4P"
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521a7"
+		},
+		"placeUrl": "https://www.google.com/maps/place/%D4%B3%D5%A1%D5%A9%D5%A1+%D5%8A%D5%A1%D5%B6%D5%A4%D5%B8%D5%AF/data=!4m7!3m6!1s0x406abce4e30bdc2b:0x297814167360f035!8m2!3d40.181588!4d44.5189209!16s%2Fg%2F11c1bg9tmt!19sChIJK9wL4-S8akARNfBgcxYUeCk",
+		"title": "Գաթա Պանդոկ",
+		"rating": "4.6",
+		"reviewCount": 243,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "22 Tumanyan St, Yerevan 0001, Armenia",
+		"website": "https://www.facebook.com/pandoktumanyan/",
+		"phoneNumber": "+374 94 309000",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPCtnqntV1LJvYBG1JjGlREQx7cX4NJJvI6i0To=w408-h408-k-no",
+		"latitude": 40.1815625,
+		"longitude": 44.51893750000001,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521a8"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Old+Beijing/data=!4m7!3m6!1s0x406abce5595d5e95:0xb974cac03c8246a6!8m2!3d40.1797225!4d44.5209398!16s%2Fg%2F11bzypgh1b!19sChIJlV5dWeW8akARpkaCPMDKdLk",
+		"title": "Old Beijing",
+		"rating": "4.0",
+		"reviewCount": 80,
+		"category": "Chinese restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  No-contact delivery",
+		"address": "9 Tumanyan Street, Area 58 Yerevan Yerevan AM 0001, 9 Tumanyan St, Yerevan 0001, Armenia",
+		"website": "http://oldbeijing.am/",
+		"phoneNumber": "+374 10 527822",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP62OtZg_jUcCyRungK0v5GcfEfXhcl9XTAwN9I=w408-h271-k-no",
+		"latitude": 40.179687500000014,
+		"longitude": 44.52093750000002,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521a9"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Alaska+by+Hans%26Franz/data=!4m7!3m6!1s0x406abcfd6978e1d3:0x64ed2dc2fd02d968!8m2!3d40.1831849!4d44.5089546!16s%2Fg%2F11gd1s5t55!19sChIJ0-F4af28akARaNkC_cIt7WQ",
+		"title": "Alaska by Hans&Franz",
+		"rating": "4.3",
+		"reviewCount": 39,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "64 Aram Street, Yerevan 0002, Armenia",
+		"website": "https://www.facebook.com/alaska.mbg/",
+		"phoneNumber": "+374 41 210211",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNxlX2CZPm-wc5eeAtbO5LO5V8SJ8wL2nsl35vm=w408-h272-k-no",
+		"latitude": 40.18318750000002,
+		"longitude": 44.50893749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521aa"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Karas/data=!4m7!3m6!1s0x406abd408071d9af:0x93a9ffdd305ffe08!8m2!3d40.2010984!4d44.5015342!16s%2Fg%2F1tf5c6xn!19sChIJr9lxgEC9akARCP5fMN3_qZM",
+		"title": "Karas",
+		"rating": "3.7",
+		"reviewCount": 115,
+		"category": "Armenian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "20, 1 Hrachya Kochar St, Yerevan 0012, Armenia",
+		"website": "karas.am",
+		"phoneNumber": "+374 10 325555",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPiyRDYvvo1Ub_ZHAwnFElYT3HWuE6T2Qo-3d3B=w408-h306-k-no",
+		"latitude": 40.20106249999999,
+		"longitude": 44.50156249999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521ab"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Beatles+Pub+Yerevan/data=!4m7!3m6!1s0x406abd1d4782f535:0x2b0f896d0550c0c3!8m2!3d40.18544!4d44.509036!16s%2Fg%2F1tfl_yyc!19sChIJNfWCRx29akARw8BQBW2JDys",
+		"title": "Beatles Pub Yerevan",
+		"rating": "4.8",
+		"reviewCount": 311,
+		"category": "Pub",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "60 Pushkin St, Yerevan 0002, Armenia",
+		"website": "https://beatles.am/",
+		"phoneNumber": "+374 10 522023",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMzKVCbtzKS-pMPwxjUx-Bmzf1aXZdZ_VFONrM6=w420-h240-k-no",
+		"latitude": 40.18543749999999,
+		"longitude": 44.509062499999985,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521ac"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Armat+Lounge+Restaurant/data=!4m7!3m6!1s0x406abce31e05f245:0x8365c750582abb48!8m2!3d40.1838868!4d44.5138281!16s%2Fg%2F11f15mt9dj!19sChIJRfIFHuO8akARSLsqWFDHZYM",
+		"title": "Armat Lounge Restaurant",
+		"rating": "4.5",
+		"reviewCount": 82,
+		"category": "European restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "50, 2 Yeznik Koghbatsi St, Yerevan 0010, Armenia",
+		"website": "",
+		"phoneNumber": "+374 91 501919",
+		"currentStatus": "Open now",
+		"info": "Identifies as women-owned",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM5Q4ySNaGecbsf9969_YMZiiBBnTqp2OzyTOu2=w408-h612-k-no",
+		"latitude": 40.1839375,
+		"longitude": 44.513812499999986,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521ad"
+		},
+		"placeUrl": "https://www.google.com/maps/place/JanPho/data=!4m7!3m6!1s0x406abd854f61bc9b:0xcc7ac51b37717389!8m2!3d40.1848579!4d44.5248446!16s%2Fg%2F11rn7djvwl!19sChIJm7xhT4W9akARiXNxNxvFesw",
+		"title": "JanPho",
+		"rating": "4.4",
+		"reviewCount": 28,
+		"category": "Vietnamese restaurant",
+		"attributes": "·  Dine-in  ·  Curbside pickup  ·  No-contact delivery",
+		"address": "47 Nalbandyan St, Yerevan 0025, Armenia",
+		"website": "vcity.guide",
+		"phoneNumber": "+374 44 474720",
+		"currentStatus": "Open now",
+		"info": "LGBTQ+ friendly",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPf1WWKXZjbpvNdGVua6MR2nmjqTFETCZ_UTz44=w519-h240-k-no",
+		"latitude": 40.18481250000001,
+		"longitude": 44.52481250000001,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521ae"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Italiano+Ristorante/data=!4m7!3m6!1s0x406abd23e51c0a39:0x69088abe6343fc32!8m2!3d40.1799321!4d44.515233!16s%2Fg%2F11g2xb24d8!19sChIJOQoc5SO9akARMvxDY76KCGk",
+		"title": "Italiano Ristorante",
+		"rating": "5.0",
+		"reviewCount": 8,
+		"category": "Italian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "3, 4 Abovyan St, Yerevan 0010, Armenia",
+		"website": "https://www.facebook.com/ItalianoRistoranteYerevan/",
+		"phoneNumber": "+374 11 206000",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPNi5_qS8-8ydzdWWKERA9T0-x4qoi7Oe9PPKr4=w408-h241-k-no",
+		"latitude": 40.17993750000001,
+		"longitude": 44.51518749999998,
+		"reviews": [
+			{
+				"review": "Very beautiful place, nice atmosphere!",
+				"rating": 4.9,
+				"userId": "SXiZ8qGj58"
+			},
+			{
+				"review": "Amazing stuff. Hope will come back soon! Cheers!",
+				"rating": 5,
+				"userId": "-utFr6a7e"
+			},
+			{
+				"review": "I like this dine-in restaurant",
+				"rating": 4.7,
+				"userId": "ZefuEiFXLu"
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521af"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Tiziano/data=!4m7!3m6!1s0x406abcfcac0145e5:0x56bdd5cddf934eba!8m2!3d40.1818252!4d44.5140485!16s%2Fg%2F1pv043qmm!19sChIJ5UUBrPy8akARuk6T383VvVY",
+		"title": "Tiziano",
+		"rating": "4.4",
+		"reviewCount": 196,
+		"category": "Cafe",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "10/1 Northern Ave, Yerevan 0010, Armenia",
+		"website": "tiziano.am",
+		"phoneNumber": "+374 10 533780",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOWuOwSq-c2pEva18u3ErIhKkiK20H50a4Vl8sq=w408-h263-k-no",
+		"latitude": 40.18181249999999,
+		"longitude": 44.51406249999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521b0"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Monmartre/data=!4m7!3m6!1s0x406abcfbf61de37f:0x5e6ac7892eeda34e!8m2!3d40.1793355!4d44.510748!16s%2Fg%2F11fy9534qn!19sChIJf-Md9vu8akARTqPtLonHal4",
+		"title": "Monmartre",
+		"rating": "4.0",
+		"reviewCount": 14,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "4 Amiryan St, Yerevan 0010, Armenia",
+		"website": "https://www.facebook.com/montmartre.restaurant.yerevan/",
+		"phoneNumber": "+374 95 554502",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM6uQ1RgS-T0JffzMA-gHZDS4V2KGpoHzV_OjA=w408-h313-k-no",
+		"latitude": 40.179312499999995,
+		"longitude": 44.5106875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521b1"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Accent+Restaurant/data=!4m7!3m6!1s0x406abd2bf300aec7:0x7b62f311a987896f!8m2!3d40.175303!4d44.5086847!16s%2Fg%2F11h26bnhht!19sChIJx64A8yu9akARb4mHqRHzYns",
+		"title": "Accent Restaurant",
+		"rating": "4.9",
+		"reviewCount": 9,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "1 Italy St, Yerevan, Armenia",
+		"website": "https://www.facebook.com/accentrestaurant/",
+		"phoneNumber": "+374 10 591188",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNwgnhpnJVARj7mosydZgF2UFtJrtqyG2hYGRIW=w408-h544-k-no",
+		"latitude": 40.175312500000004,
+		"longitude": 44.50868749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521b2"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Cafe+Central/data=!4m7!3m6!1s0x406abce14a7fb135:0x9794642f4394a25!8m2!3d40.1848946!4d44.5206642!16s%2Fg%2F1tr9lx_c!19sChIJNbF_SuG8akARJUo59EJGeQk",
+		"title": "Cafe Central",
+		"rating": "4.5",
+		"reviewCount": 190,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "30 Abovyan St, Yerevan 0001, Armenia",
+		"website": "cafecentral.am",
+		"phoneNumber": "+374 10 583990",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOv4nKgAINmfUshrZH3xraIH9KZ6cZybQGzpt8Z=w408-h386-k-no",
+		"latitude": 40.184937500000004,
+		"longitude": 44.52068750000002,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521b3"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Mozaic+Sky+Restaurant/data=!4m7!3m6!1s0x406abcf83c5e76df:0xf56d1ad5d6cfb23d!8m2!3d40.1751463!4d44.5096915!16s%2Fg%2F11b8c2q0ln!19sChIJ33ZePPi8akARPbLP1tUabfU",
+		"title": "Mozaic Sky Restaurant",
+		"rating": "4.5",
+		"reviewCount": 162,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "Elite Plaza Business 17th floor, 15 Movses Khorenatsi Street, Yerevan 0010, Armenia",
+		"website": "https://www.facebook.com/edencafepubyerevan/",
+		"phoneNumber": "+374 11 770990",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipODdP9jxapqHyDVrf6jRPHpgwvZb5TIRqi_PmW2=w408-h339-k-no",
+		"latitude": 40.17518750000001,
+		"longitude": 44.5096875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521b4"
+		},
+		"placeUrl": "https://www.google.com/maps/place/YerevanResto+Projects/data=!4m7!3m6!1s0x406abd1d4b41cab7:0xff4785239ad344e0!8m2!3d40.18494!4d44.508501!16s%2Fg%2F11clv9kvxb!19sChIJt8pBSx29akAR4ETTmiOFR_8",
+		"title": "YerevanResto Projects",
+		"rating": "4.4",
+		"reviewCount": 19,
+		"category": "Tourist information center",
+		"attributes": "",
+		"address": "6 Yeqmalyan Str., Yerevan 0002, Armenia",
+		"website": "",
+		"phoneNumber": "+374 60 442550",
+		"currentStatus": "Closed today",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNnCujDtZENu2AUOCveNMXKr9_KT7QlqRZwkZT9=w426-h240-k-no",
+		"latitude": 40.184937500000004,
+		"longitude": 44.5085625,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521b5"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Julios/data=!4m7!3m6!1s0x406abdc76966c9f3:0x89f2d6508428abf3!8m2!3d40.1877507!4d44.510527!16s%2Fg%2F11pzkkd7m7!19sChIJ88lmace9akAR86sohFDW8ok",
+		"title": "Julios",
+		"rating": "4.2",
+		"reviewCount": 50,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "36 Moskovyan Street, Yerevan 0002, Armenia",
+		"website": "",
+		"phoneNumber": "+374 43 229080",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMCNgch7o-48_aNOWhVFCCoKBZJ73v_PqyvtQXl=w408-h472-k-no",
+		"latitude": 40.18781249999999,
+		"longitude": 44.51056249999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521b6"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Kavkaz+Tavern/data=!4m7!3m6!1s0x406abcfbfa3c7cad:0xaa9f87aff70e245a!8m2!3d40.1793375!4d44.5104674!16s%2Fg%2F11d_26xlt0!19sChIJrXw8-vu8akARWiQO96-Hn6o",
+		"title": "Kavkaz Tavern",
+		"rating": "4.0",
+		"reviewCount": 3,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "4, 6 Teryan St, Yerevan, Armenia",
+		"website": "https://tavern.caucasus.am/",
+		"phoneNumber": "+374 98 561177",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipMKGA2Nc7A6JIp8TE46I9shCaLjQjz5oc02BG6C=w426-h240-k-no",
+		"latitude": 40.179312499999995,
+		"longitude": 44.51043749999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521b7"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Future+Diner/data=!4m7!3m6!1s0x406abd7000dea43d:0xe6dc5f0effaaca4e!8m2!3d40.1800419!4d44.5044158!16s%2Fg%2F11snf69yk1!19sChIJPaTeAHC9akARTsqq_w5f3OY",
+		"title": "Future Diner",
+		"rating": "5.0",
+		"reviewCount": 35,
+		"category": "Vegan restaurant",
+		"attributes": "·  Drive-through  ·  No-contact delivery",
+		"address": "5/3 Mesrop Mashtots Ave, Yerevan, Armenia",
+		"website": "https://futurediner.am/",
+		"phoneNumber": "+374 33 086668",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOcxbcKvR9OkiublslrM_T6G4pxLjUli6ITnxKU=w408-h306-k-no",
+		"latitude": 40.180062500000005,
+		"longitude": 44.50443750000001,
+		"reviews": [
+			{
+				"review": "I think this place is so overrated. Service does not suits me, noisy place and everything is so expensive ;(",
+				"rating": 0.5,
+				"userId": "YuSM1in4tq"
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521b8"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Renommee+Restaurant/data=!4m7!3m6!1s0x406abda1d96c4f91:0x4a556a87dc4fdaca!8m2!3d40.1829944!4d44.5070635!16s%2Fg%2F11rcvdkdhk!19sChIJkU9s2aG9akARytpP3IdqVUo",
+		"title": "Renommee Restaurant",
+		"rating": "5.0",
+		"reviewCount": 7,
+		"category": "Fine dining restaurant",
+		"attributes": "·  Dine-in",
+		"address": "91 Pavstos Buzand St, Yerevan 0002, Armenia",
+		"website": "renommee.am",
+		"phoneNumber": "+374 99 544433",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP9UurooYtS4Nc7HxrLcol5Zm7oHXwS3q3nNxbK=w408-h272-k-no",
+		"latitude": 40.182937499999994,
+		"longitude": 44.5070625,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521b9"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Souvenir+Restaurant+and+Cafe/data=!4m7!3m6!1s0x406abcd9d0e98ec5:0xf7979599e110e690!8m2!3d40.1930517!4d44.5330045!16s%2Fg%2F11fz9fnvnd!19sChIJxY7p0Nm8akARkOYQ4ZmVl_c",
+		"title": "Souvenir Restaurant and Cafe",
+		"rating": "3.6",
+		"reviewCount": 16,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Delivery",
+		"address": "5 Myasnikyan Ave, Yerevan, Armenia",
+		"website": "",
+		"phoneNumber": "+374 96 550099",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM1bLxY036RShACRxgeE4NxkkHZua66JNZIVAgB=w408-h272-k-no",
+		"latitude": 40.19306249999998,
+		"longitude": 44.533062499999986,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521ba"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Arega/data=!4m7!3m6!1s0x406abd43c6022ba3:0x5db7c448909a724e!8m2!3d40.1797505!4d44.5227419!16s%2Fg%2F11rn02zx85!19sChIJoysCxkO9akARTnKakEjEt10",
+		"title": "Arega",
+		"rating": "4.8",
+		"reviewCount": 22,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "85A Hanrapeturyan, Yerevan 0007, Armenia",
+		"website": "https://www.facebook.com/Arega2021",
+		"phoneNumber": "+374 41 708008",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNmOj5_QpMZ6M8gdT79VTbv3oZeDxJUApnO5nCy=w408-h246-k-no",
+		"latitude": 40.17981250000001,
+		"longitude": 44.5226875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521bb"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Mao/data=!4m7!3m6!1s0x406abd1b3ae242e5:0x3315b2845d588501!8m2!3d40.1890077!4d44.5199929!16s%2Fg%2F11fm9xrbdl!19sChIJ5ULiOhu9akARAYVYXYSyFTM",
+		"title": "Mao",
+		"rating": "4.0",
+		"reviewCount": 25,
+		"category": "Chinese restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "28 Isahakyan St, Yerevan 0009, Armenia",
+		"website": "",
+		"phoneNumber": "+374 55 001001",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPc0OwKhQEydhQmPKfSFKaSY7Z8KAdzLZzuzgs0=w408-h544-k-no",
+		"latitude": 40.18906249999999,
+		"longitude": 44.51993750000001,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521bc"
+		},
+		"placeUrl": "https://www.google.com/maps/place/4TEEN+Cafe+%26+Restaurant/data=!4m7!3m6!1s0x406abdc52b8dc1af:0xaae67fd8631aa17c!8m2!3d40.1798159!4d44.5273234!16s%2Fg%2F11h3jh36gp!19sChIJr8GNK8W9akARfKEaY9h_5qo",
+		"title": "4TEEN Cafe & Restaurant",
+		"rating": "5.0",
+		"reviewCount": 3,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "20 Charents St, Yerevan 0025, Armenia",
+		"website": "https://4teen-cafe-restaurant.business.site/",
+		"phoneNumber": "+374 11 411414",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOFIMc--AQ0gAixgB2MhgPUk0mZrtxAsySHdjKh=w408-h306-k-no",
+		"latitude": 40.17981250000001,
+		"longitude": 44.52731250000001,
+		"reviews": [
+			{
+				"review": "I enjoy spending my time here, with my friends!",
+				"rating": 4.7,
+				"userId": "-XzzrvGols"
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521bd"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Nor+Dzoraberd/data=!4m7!3m6!1s0x406abd006572c75d:0x77ea29607b3a99b6!8m2!3d40.1805556!4d44.4977778!16s%2Fg%2F1vd93kww!19sChIJXcdyZQC9akARtpk6e2Ap6nc",
+		"title": "Nor Dzoraberd",
+		"rating": "4.3",
+		"reviewCount": 58,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "19/4 Dzorapi Street, Yerevan, Armenia",
+		"website": "",
+		"phoneNumber": "+374 10 537754",
+		"currentStatus": "",
+		"imgUrl": "https://lh4.googleusercontent.com/proxy/LEb-VU8wMm5IOeM5FV4IXZ9AICgALTn23U9f76TiV9p00SirgaPCU2EVdsDMKSjkAe9MphmZmK6Ah3zQCDVty-svCEETGtkKtXEds7rRRHqRBPDjOM1O1sc9WdVa5JAbzqEjFakUlEP36o4MxltrLScyMamuObc=w408-h272-k-no",
+		"latitude": 40.18056249999999,
+		"longitude": 44.497812499999995,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521be"
+		},
+		"placeUrl": "https://www.google.com/maps/place/The+Park+Caffe/data=!4m7!3m6!1s0x406abce06940fdfb:0x93974076de16a4ce!8m2!3d40.1883111!4d44.5205815!16s%2Fg%2F11b7hjm36r!19sChIJ-_1AaeC8akARzqQW3nZAl5M",
+		"title": "The Park Caffe",
+		"rating": "4.5",
+		"reviewCount": 53,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "28 Isahakyan St, Yerevan 0009, Armenia",
+		"website": "",
+		"phoneNumber": "+374 11 770077",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPyrjdJQtoxumX7ChlkF42p92P8Ga8MhQBX0NEc=w408-h306-k-no",
+		"latitude": 40.18831250000001,
+		"longitude": 44.5205625,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521bf"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Genatsvale+Tavern/data=!4m7!3m6!1s0x406abcff63837b05:0x1bd6c9c9a7465e01!8m2!3d40.1851406!4d44.5241168!16s%2Fg%2F11cs6c94yh!19sChIJBXuDY_-8akARAV5Gp8nJ1hs",
+		"title": "Genatsvale Tavern",
+		"rating": "4.1",
+		"reviewCount": 116,
+		"category": "Georgian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "12 Isahakyan St, Yerevan 0025, Armenia",
+		"website": "https://genacvale.am/",
+		"phoneNumber": "+374 10 277999",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipM9CgTMYAV_VxTE1MnyRYv4j21qQv5qeexBrjwz=w408-h272-k-no",
+		"latitude": 40.1851875,
+		"longitude": 44.5240625,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521c0"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Baron+Restaurant/data=!4m7!3m6!1s0x406abd64b5ace365:0xfda8421e12c3ab70!8m2!3d40.1815865!4d44.5111093!16s%2Fg%2F11sy715x9c!19sChIJZeOstWS9akARcKvDEh5CqP0",
+		"title": "Baron Restaurant",
+		"rating": "4.4",
+		"reviewCount": 26,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "28/75 Yeznik Koghbatsi St, Yerevan 0002, Armenia",
+		"website": "",
+		"phoneNumber": "+374 94 117171",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNQIUlDWPu7ZGCE7N0Cr5GzkhTj186c-LufiLOe=w426-h240-k-no",
+		"latitude": 40.1815625,
+		"longitude": 44.511062499999994,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521c1"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Jose+Cafe+Club+Restaurant/data=!4m7!3m6!1s0x406abcf1a1d1b1d9:0x306880b6b476eb9c!8m2!3d40.1756868!4d44.5215197!16s%2Fg%2F11f2z4gcg1!19sChIJ2bHRofG8akARnOt2tLaAaDA",
+		"title": "Jose Cafe Club Restaurant",
+		"rating": "4.5",
+		"reviewCount": 70,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "20 Khanjyan St, Yerevan, Armenia",
+		"website": "https://www.youtube.com/c/ArmenianMusicClubs",
+		"phoneNumber": "+374 77 997774",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipOVkHAaRoYhu_m2l1eGbU0dJg6Cbwh7-Szv9ghT=w426-h240-k-no",
+		"latitude": 40.17568750000002,
+		"longitude": 44.5215625,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521c2"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Pavilion/data=!4m7!3m6!1s0x406abd61311a7b0b:0x9c9c53a0d834d497!8m2!3d40.1799446!4d44.5141188!16s%2Fg%2F11pcvs2v8z!19sChIJC3saMWG9akARl9Q02KBTnJw",
+		"title": "Pavilion",
+		"rating": "4.1",
+		"reviewCount": 75,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "1, 3 Abovyan St, Yerevan 0010, Armenia",
+		"website": "",
+		"phoneNumber": "+374 11 530300",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipODwDPFlWFqLi5R_eFWsLDsi65c_PBA5P3ZI54E=w408-h272-k-no",
+		"latitude": 40.17993750000001,
+		"longitude": 44.51406249999998,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521c3"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Derian+Restaurant/data=!4m7!3m6!1s0x406abcfc73db9bd1:0x4e03aa54f17cd6df!8m2!3d40.1759813!4d44.5171516!16s%2Fg%2F11c0thsytn!19sChIJ0Zvbc_y8akAR39Z88VSqA04",
+		"title": "Derian Restaurant",
+		"rating": "4.6",
+		"reviewCount": 60,
+		"category": "Middle Eastern restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "1/3 0010 Armenia buzant St 0010 buzant st, Yerevan, Armenia",
+		"website": "http://derianrestaurant.com/",
+		"phoneNumber": "+374 96 453579",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipO9yG3pfaItsVruFrQ9-iW_dRd4HsFCuRUsCYWn=w408-h306-k-no",
+		"latitude": 40.17593750000002,
+		"longitude": 44.51718749999999,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521c4"
+		},
+		"placeUrl": "https://www.google.com/maps/place/%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C+%D8%A2%D8%B1%D9%85%D9%86+%D8%AF%D8%B1+%D8%A7%DB%8C%D8%B1%D9%88%D8%A7%D9%86+Phoenix+Iranian+Restaurant%E2%80%AD/data=!4m7!3m6!1s0x406abdb60e1bf057:0x6581c1c038ca5592!8m2!3d40.179148!4d44.5096996!16s%2Fg%2F11j7yl4_j5!19sChIJV_AbDra9akARklXKOMDBgWU",
+		"title": "رستوران ایرانی آرمن در ایروان Phoenix Iranian Restaurant",
+		"rating": "3.9",
+		"reviewCount": 7,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Drive-through  ·  No-contact delivery",
+		"address": "7 Amiryan St, Yerevan، 0001،، Armenia",
+		"website": "",
+		"phoneNumber": "+374 94 590497",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNiUHec3DU7nhVywzXtccoRqa7SouYhSZKuB5VE=w408-h544-k-no",
+		"latitude": 40.1791875,
+		"longitude": 44.5096875,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521c5"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Giovanni+Restaurant+and+Jisnots+Bar+Armenia/data=!4m7!3m6!1s0x406abd1e2e0fe13d:0x30d54bbb1c6284ff!8m2!3d40.188407!4d44.51629!16s%2Fg%2F11b6gbx7t0!19sChIJPeEPLh69akAR_4RiHLtL1TA",
+		"title": "Giovanni Restaurant and Jisnots Bar Armenia",
+		"rating": "4.6",
+		"reviewCount": 12,
+		"category": "Armenian restaurant",
+		"attributes": "·  Dine-in  ·  Takeout",
+		"address": "39 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+		"website": "https://www.facebook.com/RestaurantGiovanniJisnotsBar/",
+		"phoneNumber": "+374 10 560246",
+		"currentStatus": "Open now",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNIW_ldhoeQaKWlCnAJMyGucpS1Ox8wkOHnyq5R=w408-h306-k-no",
+		"latitude": 40.188437500000006,
+		"longitude": 44.516312499999984,
+		"reviews": []
+	},
+	{
+		"_id": {
+			"$oid": "630cb2cea28b146e059521c6"
+		},
+		"placeUrl": "https://www.google.com/maps/place/Louis+Charden/data=!4m7!3m6!1s0x406abcfc196bef6b:0x467702d4b6a166c!8m2!3d40.1799643!4d44.5086325!16s%2Fg%2F1pt_ylp49!19sChIJa-9rGfy8akARbBZqSy1wZwQ",
+		"title": "Louis Charden",
+		"rating": "4.3",
+		"reviewCount": 169,
+		"category": "Restaurant",
+		"attributes": "·  Dine-in  ·  Takeout  ·  Delivery",
+		"address": "11 Amiryan St, Yerevan 0002, Armenia",
+		"website": "https://www.facebook.com/louischarden.mbg/",
+		"phoneNumber": "+374 95 605444",
+		"currentStatus": "Closed",
+		"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN7k24huIpgAM8qIsgLXEZe0lJIVDCuBfqmJndB=w484-h240-k-no",
+		"latitude": 40.17993750000001,
+		"longitude": 44.50868749999999,
+		"reviews": []
+	}
+]

@@ -57,13 +57,13 @@ app.get("/restaurants/:id", (req, res) => {
 });
 
 app.post("/restaurants/:id", (req, res) => {
-	const { review, rating, userId } = req.body;
+	const review = req.body;
 
 	if (ObjectId.isValid(req.params.id)) {
 		db.collection("restaurants")
 			.updateOne(
 				{ _id: new ObjectId(req.params.id) },
-				{ $push: { reviews: { review, rating, userId } } }
+				{ $push: { reviews: review } }
 			)
 			.then((result) => {
 				if (result.matchedCount) {

@@ -65,9 +65,16 @@ export default function Restaurant() {
 							<Link underline="none" href={website}>
 								Find more on official website
 							</Link>
+
 							<Typography variant="body2">
-								Phone Number: {phoneNumber}
+								Phone Number:{" "}
+								{
+									<Link underline="none" href={"tel:" + phoneNumber}>
+										{phoneNumber}
+									</Link>
+								}
 							</Typography>
+
 							<Typography>Google Rates {rating}</Typography>
 							<Rating
 								name="half-rating-read"
