@@ -1,6 +1,12 @@
 import { Box } from "@mui/material";
 import React, { useEffect, useState } from "react";
-import { YMaps, Map, Placemark } from "react-yandex-maps";
+import {
+	YMaps,
+	Map,
+	Placemark,
+	GeolocationControl,
+	Clusterer,
+} from "react-yandex-maps";
 
 export default function MyMap({ markers, center, onCenterChange }) {
 	return (
@@ -20,21 +26,33 @@ export default function MyMap({ markers, center, onCenterChange }) {
 						controls: ["zoomControl", "fullscreenControl"],
 					}}
 				>
-					{markers.map((restaurant) => {
-						const { latitude, longitude } = restaurant;
-						return (
-							<Placemark
-								onClick={() => {
-									onCenterChange([latitude, longitude]);
-								}}
-								geometry={[latitude, longitude]}
-								key={restaurant["_id"]}
-								properties={{
-									balloonContentBody: restaurant.category,
-								}}
-							/>
-						);
-					})}
+					<GeolocationControl
+						options={{
+							float: "left",
+						}}
+					/>
+					<Clusterer
+						options={{
+							preset: "islands#invertedVioletClusterIcons",
+							groupByCoordinates: false,
+						}}
+					>
+						{markers.map((restaurant) => {
+							const { latitude, longitude } = restaurant;
+							return (
+								<Placemark
+									onClick={() => {
+										onCenterChange([latitude, longitude]);
+									}}
+									geometry={[latitude, longitude]}
+									key={restaurant["_id"]}
+									properties={{
+										balloonContentBody: restaurant.category,
+									}}
+								/>
+							);
+						})}
+					</Clusterer>
 				</Map>
 			</YMaps>
 		</Box>
