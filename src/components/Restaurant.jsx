@@ -167,7 +167,7 @@ export default function Restaurant() {
 										UserId: {review.userId}
 									</Typography>
 									<Divider />
-									<Typography variant="h3" color="success">
+									<Typography align="center" color="primary">
 										{review.review}
 									</Typography>
 								</CardActionArea>
