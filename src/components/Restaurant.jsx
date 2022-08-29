@@ -17,13 +17,14 @@ import {
 } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import { nanoid } from "nanoid";
 import ExpandMoreOutlinedIcon from "@mui/icons-material/ExpandMoreOutlined";
 export default function Restaurant() {
 	const [restaurant, setRestaurant] = useState(null);
 	const [userRate, setUserRate] = useState(0);
 	const [userReview, setUserReview] = useState("");
 	const params = useParams();
-	const [displayedReviews, setDisplayedReviews] = useState(null);
+	const [displayedReviews, setDisplayedReviews] = useState([]);
 	useEffect(() => {
 		(async () => {
 			const rest = await (
@@ -89,12 +90,13 @@ export default function Restaurant() {
 										action={`${params.id}`}
 										method="post"
 										onSubmit={(ev) => {
-											ev.preventDefault();
 											const data = {
 												review: userReview,
 												rating: userRate,
-												id: Math.random(),
+												userId: nanoid(10),
 											};
+											ev.preventDefault();
+											console.log(data);
 											fetch(`http://localhost:8000/restaurants/${params.id}`, {
 												method: "POST",
 												headers: {
@@ -142,8 +144,9 @@ export default function Restaurant() {
 				</Grid>
 			</Grid>
 			<Box>
-				{displayedReviews &&
+				{displayedReviews.length !== 0 &&
 					displayedReviews.map((review) => {
+						console.log(review);
 						return (
 							<Card
 								sx={{
@@ -153,7 +156,7 @@ export default function Restaurant() {
 									mb: 3,
 									p: 1,
 								}}
-								key={review.id}
+								key={review.userId}
 							>
 								<CardActionArea sx={{ p: 2 }}>
 									<Typography
@@ -161,7 +164,7 @@ export default function Restaurant() {
 										variant="body2"
 										color="textSecondary"
 									>
-										UserId: {review.id}
+										UserId: {review.userId}
 									</Typography>
 									<Divider />
 									<Typography variant="h3" color="success">
