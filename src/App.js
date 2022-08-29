@@ -10,6 +10,7 @@ const theme = createTheme({
 });
 function App() {
 	const [restaurantsCollection, setRestaurantsCollection] = useState([]);
+	const [center, setCenter] = useState([40.18293749999999, 44.5070625]);
 	useEffect(() => {
 		(async () => {
 			const fetchedRestaurants = await (
@@ -32,13 +33,18 @@ function App() {
 						</Typography>
 						<List>
 							{restaurantsCollection.map((restaurant) => (
-								<RestItem key={restaurant["_id"]} restaurant={restaurant} />
+								<RestItem
+									onCenter={setCenter}
+									key={restaurant["_id"]}
+									restaurant={restaurant}
+								/>
 							))}
 						</List>
 					</Grid>
 					<Grid item xs={12} md={6}>
 						<MyMap
-							center={[40.18293749999999, 44.5070625]}
+							center={center}
+							onCenterChange={setCenter}
 							markers={restaurantsCollection}
 						/>
 					</Grid>

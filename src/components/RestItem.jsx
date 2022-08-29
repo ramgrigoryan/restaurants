@@ -10,16 +10,20 @@ import {
 
 import { useNavigate } from "react-router-dom";
 
-const RestItem = ({ restaurant }) => {
-	const { title, rating, imgUrl, _id } = restaurant;
+const RestItem = ({ restaurant, onCenter }) => {
+	const { title, rating, imgUrl, _id, latitude, longitude } = restaurant;
 
 	const navigate = useNavigate();
 
 	return (
 		<ListItem>
 			<Card sx={{ width: "100%", mb: 2 }}>
-				<CardActionArea>
-					<CardContent sx={{ backgroundColor: "#95cded" }}>
+				<CardActionArea
+					onClick={() => {
+						onCenter([latitude, longitude]);
+					}}
+				>
+					<CardContent onClick={() => {}} sx={{ backgroundColor: "#95cded" }}>
 						<Typography align="center" variant="h5" sx={{ color: "#fff" }}>
 							{title}
 						</Typography>

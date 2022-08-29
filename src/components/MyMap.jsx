@@ -2,8 +2,7 @@ import { Box } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import { YMaps, Map, Placemark } from "react-yandex-maps";
 
-export default function MyMap({ markers }) {
-	const [center, setCenter] = useState([40.18545030560178, 44.51503694256787]);
+export default function MyMap({ markers, center, onCenterChange }) {
 	return (
 		<Box>
 			<YMaps
@@ -25,7 +24,7 @@ export default function MyMap({ markers }) {
 						return (
 							<Placemark
 								onClick={() => {
-									setCenter([latitude, longitude]);
+									onCenterChange([latitude, longitude]);
 								}}
 								geometry={[latitude, longitude]}
 								key={restaurant["_id"]}

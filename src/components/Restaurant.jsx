@@ -5,7 +5,9 @@ import {
 	Box,
 	Button,
 	Card,
+	CardActionArea,
 	CardContent,
+	Divider,
 	Grid,
 	Link,
 	Rating,
@@ -101,6 +103,8 @@ export default function Restaurant() {
 												},
 												body: JSON.stringify(data),
 											}).then(() => {
+												setUserRate(0);
+												setUserReview("");
 												setDisplayedReviews([...displayedReviews, data]);
 											});
 										}}
@@ -147,12 +151,23 @@ export default function Restaurant() {
 								display: "flex",
 								justifyContent: "space-between",
 								mb: 3,
+								p: 1,
 							}}
 							key={review.id}
 						>
-							<Typography variant="h3" color="success">
-								{review.review}
-							</Typography>
+							<CardActionArea sx={{ p: 2 }}>
+								<Typography
+									align="center"
+									variant="body2"
+									color="textSecondary"
+								>
+									UserId: {review.id}
+								</Typography>
+								<Divider />
+								<Typography variant="h3" color="success">
+									{review.review}
+								</Typography>
+							</CardActionArea>
 							<CardContent>
 								<Rating
 									name="half-rating-read"
