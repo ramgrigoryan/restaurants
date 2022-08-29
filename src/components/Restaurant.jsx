@@ -16,6 +16,7 @@ import {
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import ExpandMoreOutlinedIcon from "@mui/icons-material/ExpandMoreOutlined";
+import { display } from "@mui/system";
 export default function Restaurant() {
 	const [restaurant, setRestaurant] = useState(null);
 	const [userRate, setUserRate] = useState(0);
@@ -140,10 +141,27 @@ export default function Restaurant() {
 			<Box>
 				{displayedReviews.map((review) => {
 					return (
-						<Stack direction="row" key={review.id}>
-							<Typography>{review.rating}</Typography>
-							<Typography>{review.review}</Typography>
-						</Stack>
+						<Card
+							sx={{
+								maxWidth: "450px",
+								display: "flex",
+								justifyContent: "space-between",
+								mb: 3,
+							}}
+							key={review.id}
+						>
+							<Typography variant="h3" color="success">
+								{review.review}
+							</Typography>
+							<CardContent>
+								<Rating
+									name="half-rating-read"
+									defaultValue={+review.rating}
+									precision={0.1}
+									readOnly
+								/>
+							</CardContent>
+						</Card>
 					);
 				})}
 			</Box>
