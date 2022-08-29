@@ -1,126 +1,45 @@
 import MyMap from "./components/MyMap";
 import {
 	Box,
-	Button,
-	Card,
-	CardActionArea,
-	CardActions,
-	CardContent,
 	Grid,
 	List,
-	ListItem,
 	Typography,
 } from "@mui/material";
 import { ThemeProvider, createTheme } from "@mui/material";
+import { useEffect, useState } from "react";
+import RestItem from "./components/RestItem";
 const theme = createTheme({
 	typography: {
 		fontFamily: "Quicksand",
 	},
 });
 function App() {
+	const [restaurantsCollection,setRestaurantsCollection] = useState([]);
+	useEffect(()=>{
+		(async () =>{
+			const fetchedRestaurants = await (await fetch("http://localhost:8000/restaurants")).json();
+			setRestaurantsCollection(fetchedRestaurants);
+		})()
+	},[])
 	return (
 		<ThemeProvider theme={theme}>
 			<Box sx={{ p: 0 }}>
 				<Grid
-					sx={{ width: "100vw", ml: 2, mr: 2 }}
 					container
+					sx={{ width: "100vw", ml: 2, mr: 2 }}
 					flexDirection="row"
-					spacing={8}
 				>
 					<Grid item xs={12} sm={12} md={6} lg={6} xl={6}>
-						{" "}
 						<Typography variant="h3" align="center" sx={{ pt: 2 }}>
 							The most famous Restaurants in Yerevan
 						</Typography>
 						<List>
-							<ListItem>
-								<Card sx={{ width: "100%" }}>
-									<CardActionArea>
-										<CardContent>
-											<Typography gutterBottom variant="h5" component="div">
-												Taverna Yerevan
-											</Typography>
-											<Typography variant="body2" color="text.secondary">
-												rating
-											</Typography>
-											<Typography variant="body2" color="text.secondary">
-												popularity
-											</Typography>
-											<Typography variant="body2" color="text.secondary">
-												address
-											</Typography>
-											<Typography variant="body2" color="text.secondary">
-												distance
-											</Typography>
-										</CardContent>
-									</CardActionArea>
-									<CardActions>
-										<Button fullWidth size="medium" color="primary">
-											View Details
-										</Button>
-									</CardActions>
-								</Card>
-							</ListItem>
-							<ListItem>
-								<Card sx={{ width: "100%" }}>
-									<CardActionArea>
-										<CardContent>
-											<Typography gutterBottom variant="h5" component="div">
-												Taverna Yerevan
-											</Typography>
-											<Typography variant="body2" color="text.secondary">
-												rating
-											</Typography>
-											<Typography variant="body2" color="text.secondary">
-												popularity
-											</Typography>
-											<Typography variant="body2" color="text.secondary">
-												address
-											</Typography>
-											<Typography variant="body2" color="text.secondary">
-												distance
-											</Typography>
-										</CardContent>
-									</CardActionArea>
-									<CardActions>
-										<Button fullWidth size="medium" color="primary">
-											View Details
-										</Button>
-									</CardActions>
-								</Card>
-							</ListItem>
-							<ListItem>
-								<Card sx={{ width: "100%" }}>
-									<CardActionArea>
-										<CardContent>
-											<Typography gutterBottom variant="h5" component="div">
-												Taverna Yerevan
-											</Typography>
-											<Typography variant="body2" color="text.secondary">
-												rating
-											</Typography>
-											<Typography variant="body2" color="text.secondary">
-												popularity
-											</Typography>
-											<Typography variant="body2" color="text.secondary">
-												address
-											</Typography>
-											<Typography variant="body2" color="text.secondary">
-												distance
-											</Typography>
-										</CardContent>
-									</CardActionArea>
-									<CardActions>
-										<Button fullWidth size="medium" color="primary">
-											View Details
-										</Button>
-									</CardActions>
-								</Card>
-							</ListItem>
+							{restaurantsCollection.map(restaurant=><RestItem key={restaurant['_id']} restaurant={restaurant}/>)}
 						</List>
 					</Grid>
-					<Grid item xs={12} sm={12} md={6} lg={6} xl={6}>
-						<MyMap />
+					<Grid item xs={12} md={6} >
+					<MyMap center={[40.18293749999999,44.5070625]} markers={restaurantsCollection} />
+						
 					</Grid>
 				</Grid>
 			</Box>

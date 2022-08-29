@@ -4,7 +4,11 @@ const { getDb, connectToDb } = require('./db')
 const { ObjectId } = require('mongodb')
 
 const app = express()
-app.use(express.json())
+app.use(express.json());
+app.use((req, res, next) => {
+    res.header({"Access-Control-Allow-Origin": "*"});
+    next();
+  }) 
 
 let db
 
@@ -57,13 +61,13 @@ app.get('/restaurants/:id', (req, res) => {
   }
 })
 
-app.patch('/restaurants/:id', (req, res) => {
-  const updates = req.body
+app.post('/restaurants/:id', (req, res) => {
+    const update = req.body.review;
 
   if (ObjectId.isValid(req.params.id)) {
 
     db.collection('restaurants')
-      .updateOne({ _id: new ObjectId(req.params.id) }, {$set: updates})
+      .updateOne({ _id: new ObjectId(req.params.id) }, {$push:{"reviews":update}})
       .then(result => {
         if(result.matchedCount){
             res.status(200).json(result)
