@@ -47,7 +47,9 @@ export default function MyMap({ markers, center, onCenterChange }) {
 									geometry={[latitude, longitude]}
 									key={restaurant["_id"]}
 									properties={{
-										balloonContentBody: restaurant.category,
+										balloonContentHeader: `${restaurant.title} `,
+										balloonContentBody: ` ${restaurant.category}`,
+										balloonContentFooter: ` ${restaurant.address}`,
 									}}
 								/>
 							);
