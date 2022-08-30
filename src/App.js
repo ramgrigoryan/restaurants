@@ -1,8 +1,9 @@
 import MyMap from "./components/MyMap";
-import { Box, Grid, List, Typography } from "@mui/material";
+import { Box, Grid, List, Stack, Typography } from "@mui/material";
 import { ThemeProvider, createTheme } from "@mui/material";
 import { useEffect, useState } from "react";
 import RestItem from "./components/RestItem";
+import Pagination from "./components/Pagination";
 const theme = createTheme({
 	typography: {
 		fontFamily: "Quicksand",
@@ -11,6 +12,8 @@ const theme = createTheme({
 function App() {
 	const [restaurantsCollection, setRestaurantsCollection] = useState([]);
 	const [center, setCenter] = useState([40.18293749999999, 44.5070625]);
+	const [currentPage, setCurrentPage] = useState(1);
+	const [restaurantPerPage] = useState(5);
 	useEffect(() => {
 		(async () => {
 			const fetchedRestaurants = await (
@@ -19,6 +22,13 @@ function App() {
 			setRestaurantsCollection(fetchedRestaurants);
 		})();
 	}, []);
+	const indexOfLastRestaurant = currentPage * restaurantPerPage;
+	const indexOfFirstRestaurant = indexOfLastRestaurant - restaurantPerPage;
+	const currentRestaurants = restaurantsCollection.slice(
+		indexOfFirstRestaurant,
+		indexOfLastRestaurant
+	);
+	const paginate = (pageNumber) => setCurrentPage(pageNumber);
 	return (
 		<ThemeProvider theme={theme}>
 			<Box sx={{ p: 0 }}>
@@ -32,7 +42,7 @@ function App() {
 							The most famous restaurants in Yerevan
 						</Typography>
 						<List>
-							{restaurantsCollection.map((restaurant) => (
+							{currentRestaurants.map((restaurant) => (
 								<RestItem
 									onCenter={setCenter}
 									key={restaurant["_id"]}
@@ -40,6 +50,12 @@ function App() {
 								/>
 							))}
 						</List>
+
+						<Pagination
+							restaurantsPerPage={restaurantPerPage}
+							totalRestaurants={restaurantsCollection.length}
+							paginate={paginate}
+						/>
 					</Grid>
 					<Grid item xs={12} md={6}>
 						<MyMap

@@ -11,7 +11,7 @@ import {
 import { useNavigate } from "react-router-dom";
 
 const RestItem = ({ restaurant, onCenter }) => {
-	const { title, rating, imgUrl, _id, latitude, longitude } = restaurant;
+	const { title, rating, _id, latitude, longitude } = restaurant;
 
 	const navigate = useNavigate();
 
