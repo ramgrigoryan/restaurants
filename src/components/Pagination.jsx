@@ -9,7 +9,7 @@ const Pagination = ({ restaurantsPerPage, totalRestaurants, paginate }) => {
 	}
 
 	return (
-		<Box sx={{ display: "flex", justifyContent: "center" }}>
+		<Box sx={{ display: "flex", justifyContent: "center", mt: -2 }}>
 			<ButtonGroup variant="outlined" size="large">
 				{pageNumbers.map((number) => (
 					<Button onClick={() => paginate(number)} href="#" key={number}>

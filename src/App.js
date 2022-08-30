@@ -31,7 +31,7 @@ function App() {
 	const paginate = (pageNumber) => setCurrentPage(pageNumber);
 	return (
 		<ThemeProvider theme={theme}>
-			<Box sx={{ p: 1 }}>
+			<Box>
 				<Grid
 					container
 					spacing={3}
@@ -39,7 +39,7 @@ function App() {
 					flexDirection="row"
 				>
 					<Grid item md={12} lg={6}>
-						<Typography variant="h4" align="center" sx={{ pt: 2 }}>
+						<Typography variant="h4" align="center">
 							The most famous restaurants in Yerevan
 						</Typography>
 						<List>

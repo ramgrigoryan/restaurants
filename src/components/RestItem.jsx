@@ -9,6 +9,7 @@ import {
 } from "@mui/material";
 
 import { useNavigate } from "react-router-dom";
+import GradeOutlinedIcon from "@mui/icons-material/GradeOutlined";
 
 const RestItem = ({ restaurant, onCenter }) => {
 	const { title, rating, _id, latitude, longitude } = restaurant;
@@ -17,13 +18,13 @@ const RestItem = ({ restaurant, onCenter }) => {
 
 	return (
 		<ListItem>
-			<Card sx={{ width: "100%", mb: 2 }}>
+			<Card sx={{ width: "100%", mb: 1.5 }}>
 				<CardActionArea
 					onClick={() => {
 						onCenter([latitude, longitude]);
 					}}
 				>
-					<CardContent onClick={() => {}} sx={{ backgroundColor: "#95cded" }}>
+					<CardContent onClick={() => {}} sx={{ backgroundColor: "#1d96ff" }}>
 						<Typography
 							align="center"
 							variant="h5"
@@ -31,13 +32,9 @@ const RestItem = ({ restaurant, onCenter }) => {
 						>
 							{title}
 						</Typography>
-						<Typography
-							variant="body2"
-							color="textSecondary"
-							sx={{ color: "#fff" }}
-						>
-							Rating: {rating}
-						</Typography>
+						<Button size="small" variant="contained">
+							<GradeOutlinedIcon /> {rating}
+						</Button>
 					</CardContent>
 				</CardActionArea>
 				<CardActions>
