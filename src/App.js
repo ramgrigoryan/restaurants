@@ -1,5 +1,5 @@
 import MyMap from "./components/MyMap";
-import { Box, Grid, List, Stack, Typography } from "@mui/material";
+import { Box, Grid, List, Typography } from "@mui/material";
 import { ThemeProvider, createTheme } from "@mui/material";
 import { useEffect, useState } from "react";
 import RestItem from "./components/RestItem";
@@ -31,14 +31,15 @@ function App() {
 	const paginate = (pageNumber) => setCurrentPage(pageNumber);
 	return (
 		<ThemeProvider theme={theme}>
-			<Box sx={{ p: 0 }}>
+			<Box sx={{ p: 1 }}>
 				<Grid
 					container
-					sx={{ width: "100vw", ml: 2, mr: 2 }}
+					spacing={3}
+					sx={{ width: "98vw", p: 2 }}
 					flexDirection="row"
 				>
-					<Grid item xs={12} sm={12} md={6} lg={6} xl={6}>
-						<Typography variant="h3" align="center" sx={{ pt: 2 }}>
+					<Grid item md={12} lg={6}>
+						<Typography variant="h4" align="center" sx={{ pt: 2 }}>
 							The most famous restaurants in Yerevan
 						</Typography>
 						<List>
@@ -50,14 +51,20 @@ function App() {
 								/>
 							))}
 						</List>
-
 						<Pagination
 							restaurantsPerPage={restaurantPerPage}
 							totalRestaurants={restaurantsCollection.length}
 							paginate={paginate}
 						/>
 					</Grid>
-					<Grid item xs={12} md={6}>
+					<Grid
+						item
+						container
+						justifyContent="end"
+						md={12}
+						lg={6}
+						sx={{ pl: 5, pr: 5 }}
+					>
 						<MyMap
 							center={center}
 							onCenterChange={setCenter}

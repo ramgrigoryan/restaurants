@@ -24,7 +24,11 @@ const RestItem = ({ restaurant, onCenter }) => {
 					}}
 				>
 					<CardContent onClick={() => {}} sx={{ backgroundColor: "#95cded" }}>
-						<Typography align="center" variant="h5" sx={{ color: "#fff" }}>
+						<Typography
+							align="center"
+							variant="h5"
+							sx={{ fontSize: "20px", color: "#fff" }}
+						>
 							{title}
 						</Typography>
 						<Typography
