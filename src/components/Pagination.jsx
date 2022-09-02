@@ -1,4 +1,4 @@
-import { Box, Button, ButtonGroup} from "@mui/material";
+import { Box, Button, ButtonGroup, Typography} from "@mui/material";
 import React from "react";
 
 const Pagination = ({ restaurantsPerPage, totalRestaurants, paginate }) => {
@@ -12,8 +12,8 @@ const Pagination = ({ restaurantsPerPage, totalRestaurants, paginate }) => {
 		<Box sx={{ display: "flex", justifyContent: "center", mt: -2 }}>
 			<ButtonGroup variant="outlined" size="large">
 				{pageNumbers.map((number) => (
-					<Button onClick={() => paginate(number)} key={number}>
-						{number}
+					<Button sx={{width:{xl:"80px"},height:{xl:"80px"}}} onClick={() => paginate(number)} key={number}>
+						<Typography sx={{fontSize:{xl:"25px"}}}>{number}</Typography>
 					</Button>
 				))}
 			</ButtonGroup>

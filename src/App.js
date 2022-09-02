@@ -34,7 +34,7 @@ function App() {
 	const paginate = (pageNumber) => setCurrentPage(pageNumber);
 	return (
 		<ThemeProvider theme={theme}>
-			<Box>
+			<Box sx={{p:4}}>
 				<Grid
 					container
 					spacing={3}

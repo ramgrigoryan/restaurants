@@ -49,7 +49,7 @@ export default function Restaurant() {
 		phoneNumber,
 	} = restaurant;
 	return (
-		<Container sx={{pt:4,pb:4}}>
+		<Container sx={{py:4}}>
 			<Grid container width="90vw" flexDirection="row" spacing={1}>
 				<Grid item xs={12} sm={5} md={4} lg={6}>
 					<Box>
