@@ -12,7 +12,6 @@ let db;
 connectToDb((err) => {
 	if (!err) {
 		app.listen(8000, () => {
-			console.log("listening port 8000");
 		});
 		db = getDb();
 	}
@@ -24,8 +23,8 @@ app.get("/restaurants", (req, res) => {
 
 	db.collection("restaurants")
 		.find()
-		.limit(20)
 		.sort({ rating: -1 })
+		.limit(20)
 		.forEach((restaurant) => restaurants.push(restaurant))
 		.then(() => {
 			res.status(200).json(restaurants);
@@ -69,7 +68,6 @@ app.post("/restaurants/:id", (req, res) => {
 				if (result.matchedCount) {
 					res
 						.status(200)
-						.header({ "Access-Control-Allow-Headers": "*" })
 						.json(result);
 				} else {
 					res.status(500).json({ mssg: "Routes do not match" });

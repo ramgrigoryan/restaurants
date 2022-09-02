@@ -17,14 +17,17 @@ function App() {
 	useEffect(() => {
 		(async () => {
 			const fetchedRestaurants = await (
-				await fetch("http://localhost:8000/restaurants")
+				await fetch("http://localhost:8000/restaurants",{
+					method:"GET",
+					headers:{"Content-type":"strict-origin-when-cross-origin"}
+				})
 			).json();
 			setRestaurantsCollection(fetchedRestaurants);
 		})();
 	}, []);
 	const indexOfLastRestaurant = currentPage * restaurantPerPage;
 	const indexOfFirstRestaurant = indexOfLastRestaurant - restaurantPerPage;
-	const currentRestaurants = restaurantsCollection.slice(
+	const currentPageRestaurants = restaurantsCollection.slice(
 		indexOfFirstRestaurant,
 		indexOfLastRestaurant
 	);
@@ -38,12 +41,12 @@ function App() {
 					sx={{ width: "98vw", p: 2 }}
 					flexDirection="row"
 				>
-					<Grid item md={12} lg={6}>
+					<Grid item sm={12} md={6} >
 						<Typography variant="h4" align="center">
 							The most famous restaurants in Yerevan
 						</Typography>
 						<List>
-							{currentRestaurants.map((restaurant) => (
+							{currentPageRestaurants.map((restaurant) => (
 								<RestItem
 									onCenter={setCenter}
 									key={restaurant["_id"]}
@@ -60,12 +63,11 @@ function App() {
 					<Grid
 						item
 						container
-						justifyContent="end"
-						md={12}
-						lg={6}
-						sx={{ pl: 5, pr: 5 }}
+						justifyContent="center"
+						sm={12} md={6} 
 					>
 						<MyMap
+							className= 'map'
 							center={center}
 							onCenterChange={setCenter}
 							markers={restaurantsCollection}

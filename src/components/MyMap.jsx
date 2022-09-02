@@ -18,8 +18,7 @@ export default function MyMap({ markers, center, onCenterChange }) {
 				}}
 			>
 				<Map
-					width={800}
-					height={800}
+					className="map"
 					state={{
 						center,
 						zoom: 16,

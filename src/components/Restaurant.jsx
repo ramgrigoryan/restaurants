@@ -103,7 +103,6 @@ export default function Restaurant() {
 												userId: nanoid(10),
 											};
 											ev.preventDefault();
-											console.log(data);
 											fetch(`http://localhost:8000/restaurants/${params.id}`, {
 												method: "POST",
 												headers: {
@@ -153,7 +152,6 @@ export default function Restaurant() {
 			<Box>
 				{displayedReviews.length !== 0 &&
 					displayedReviews.map((review) => {
-						console.log(review);
 						return (
 							<Card
 								sx={{
