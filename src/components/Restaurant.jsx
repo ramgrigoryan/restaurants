@@ -14,6 +14,7 @@ import {
 	Stack,
 	TextField,
 	Typography,
+	Container
 } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
@@ -48,7 +49,7 @@ export default function Restaurant() {
 		phoneNumber,
 	} = restaurant;
 	return (
-		<Box sx={{ m: 5 }}>
+		<Container sx={{pt:4,pb:4}}>
 			<Grid container width="90vw" flexDirection="row" spacing={1}>
 				<Grid item xs={12} sm={5} md={4} lg={6}>
 					<Box>
@@ -133,7 +134,7 @@ export default function Restaurant() {
 												<Typography>Rate us</Typography>
 												<Rating
 													name="half-rating-read"
-													precision={0.1}
+													precision={0.5}
 													value={userRate}
 													onChange={(event, newValue) => {
 														setUserRate(newValue);
@@ -149,7 +150,7 @@ export default function Restaurant() {
 					</Card>
 				</Grid>
 			</Grid>
-			<Box>
+			<Stack spacing={3}  sx={{pt:5, pl:5}}>
 				{displayedReviews.length !== 0 &&
 					displayedReviews.map((review) => {
 						return (
@@ -187,7 +188,7 @@ export default function Restaurant() {
 							</Card>
 						);
 					})}
-			</Box>
-		</Box>
+			</Stack>
+		</Container>
 	);
 }

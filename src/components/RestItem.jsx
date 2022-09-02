@@ -31,13 +31,13 @@ const RestItem = ({ restaurant, onCenter }) => {
 						<Typography
 							align="center"
 							variant="h5"
-							sx={{ fontSize: "20px", color: "#fff" }}
+							sx={{ fontSize:{sm:"18", md:"22px",xl:"28px"}, color: "#fff" }}
 						>
 							{title}
 						</Typography>
 						<Paper sx={{display:"inline-block",p:1,color:"#fff", backgroundColor:"#0f3fc2"}}>
 							<Stack flexDirection='row' justifyContent='center' alignItems="center">
-							<GradeOutlinedIcon sx={{pr:1}}/> {rating}
+							<GradeOutlinedIcon sx={{pr:1,fontSize:{md:"25px",xl:"30px"}}}/> <Typography variant="h6" sx={{fontSize:{md:"20px",xl:"28px"}}}>{rating}</Typography>
 							</Stack>
 						</Paper>
 					</CardContent>
@@ -50,6 +50,7 @@ const RestItem = ({ restaurant, onCenter }) => {
 						fullWidth
 						size="medium"
 						color="primary"
+						sx={{fontSize:{md:"18px",xl:"26px"}}}
 					>
 						View Details
 					</Button>

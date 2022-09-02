@@ -38,11 +38,11 @@ function App() {
 				<Grid
 					container
 					spacing={3}
-					sx={{ width: "98vw", p: 2 }}
+					sx={{ width: "100vw", p:{sm:"0.5"}  }}
 					flexDirection="row"
 				>
 					<Grid item sm={12} md={6} >
-						<Typography variant="h4" align="center">
+						<Typography sx={{fontSize:{xs:"18px",sm:"22px",md:'26px', lg:'30px',xl:"44px"}}} variant="h4" align="center">
 							The most famous restaurants in Yerevan
 						</Typography>
 						<List>
